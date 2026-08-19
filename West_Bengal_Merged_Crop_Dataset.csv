@@ -1,0 +1,1001 @@
+soil_moisture,soil_temperature,air_temperature,humidity,rainfall,crop_type,crop_stage,crop_age_days,soil_type,soil_ph,previous_irrigation
+15.97,28.73,12.16,33.13,848.57,Maize,Vegetative,57,Black soils,4.5,9
+9.73,30.93,23.22,40.15,1540.04,Groundnut,Vegetative,30,Black soils,6.0,1
+43.83,28.6,19.79,75.45,1022.52,Mustard,Vegetative,47,Red and Yellow soils,5.0,12
+40.51,26.1,34.34,77.74,1721.06,Urd,Maturity / Harvesting,113,Red and Yellow soils,6.0,14
+38.32,26.28,19.37,65.37,1972.8,Groundnut,Maturity / Harvesting,115,Laterite soils,5.5,3
+33.83,25.65,37.41,41.08,222.88,Wheat,Flowering / Reproductive,81,Alluvial soils,7.0,7
+6.26,27.39,26.82,40.38,504.3,Soybean,Sowing / Germination,9,Black soils,6.0,7
+14.05,23.21,10.76,44.62,487.33,Til,Flowering / Reproductive,68,Laterite soils,5.5,10
+43.41,27.52,17.46,75.47,1198.65,Urd,Vegetative,23,Alluvial soils,7.0,0
+40.23,26.24,39.14,56.24,1716.47,Jwar,Vegetative,41,Black soils,5.5,1
+30.99,27.33,23.61,76.09,664.49,Wheat,Sowing / Germination,1,Laterite soils,5.5,4
+42.23,27.34,33.37,41.71,463.28,Niger,Sowing / Germination,12,Black soils,6.5,8
+42.92,19.14,37.82,50.15,786.15,Urd,Flowering / Reproductive,67,Black soils,7.0,9
+41.17,23.8,37.3,30.28,1025.87,Moong,Vegetative,30,Laterite soils,6.0,10
+37.41,26.17,19.65,26.78,257.03,Mustard,Vegetative,32,Black soils,7.0,11
+33.5,26.33,11.95,50.71,425.51,Arhar,Vegetative,47,Alluvial soils,6.0,12
+15.4,27.28,32.98,55.69,1019.0,Mustard,Maturity / Harvesting,95,Black soils,6.5,10
+17.45,27.41,10.21,29.97,1248.41,Soybean,Flowering / Reproductive,71,Red and Yellow soils,6.5,6
+12.79,31.05,13.24,20.35,1479.1,Masoor,Vegetative,20,Red and Yellow soils,6.0,9
+42.84,27.44,37.33,40.6,491.99,Moong,Sowing / Germination,9,Black soils,5.5,4
+37.77,25.56,24.01,27.99,1921.25,Soybean,Vegetative,19,Alluvial soils,7.0,0
+20.57,21.7,38.35,34.68,264.08,Masoor,Maturity / Harvesting,110,Red and Yellow soils,7.0,14
+21.28,22.39,27.81,49.24,1659.85,Pea,Vegetative,32,Laterite soils,5.5,14
+17.33,28.11,28.02,63.92,1155.26,Jwar,Vegetative,32,Laterite soils,6.5,5
+36.14,29.68,20.9,69.89,1598.67,Tiwra,Vegetative,15,Red and Yellow soils,4.5,11
+11.27,31.12,22.73,62.86,855.7,Jwar,Vegetative,33,Laterite soils,6.5,7
+31.6,24.02,33.53,48.52,1676.65,Arhar,Flowering / Reproductive,67,Alluvial soils,6.5,6
+19.98,25.59,25.43,41.49,506.95,Moong,Vegetative,17,Laterite soils,6.0,1
+43.59,27.23,16.53,89.86,395.2,Urd,Sowing / Germination,10,Laterite soils,6.5,11
+40.89,32.64,34.45,39.7,816.38,summer paddy,Sowing / Germination,9,Black soils,6.0,4
+20.61,26.84,11.98,60.14,1056.45,Kulthi,Vegetative,19,Alluvial soils,6.0,13
+41.85,31.15,17.85,67.83,1350.84,Kulthi,Maturity / Harvesting,113,Alluvial soils,6.5,10
+29.08,27.01,11.18,22.61,366.91,summer paddy,Vegetative,32,Black soils,6.0,3
+21.16,29.96,14.23,73.13,967.91,summer paddy,Maturity / Harvesting,125,Alluvial soils,6.0,8
+39.57,29.58,21.48,42.39,1750.44,Maize,Flowering / Reproductive,92,Red and Yellow soils,5.5,9
+36.88,27.0,29.58,88.67,907.33,Rice,Vegetative,32,Black soils,6.0,0
+41.89,23.44,17.54,47.04,1462.05,Gram,Sowing / Germination,13,Black soils,5.5,11
+29.31,25.69,21.35,51.92,1365.1,Groundnut,Sowing / Germination,9,Red and Yellow soils,7.5,5
+12.85,30.97,19.9,72.4,364.22,Tiwra,Flowering / Reproductive,75,Alluvial soils,6.0,2
+36.12,29.13,39.6,79.28,1149.51,Urd,Sowing / Germination,6,Red and Yellow soils,7.0,10
+41.48,25.2,31.47,55.06,1409.93,Rice,Vegetative,55,Alluvial soils,5.5,8
+21.76,25.47,24.67,77.18,1922.74,Arhar,Vegetative,21,Black soils,6.5,4
+23.86,21.31,20.02,71.26,1670.21,Gram,Flowering / Reproductive,73,Laterite soils,6.0,12
+38.41,30.83,34.75,71.04,518.86,Niger,Sowing / Germination,11,Black soils,7.0,5
+16.2,29.16,30.41,79.27,1370.11,Mustard,Vegetative,39,Red and Yellow soils,7.0,10
+14.22,26.09,25.23,88.43,1369.93,Wheat,Vegetative,46,Laterite soils,6.0,8
+39.65,27.1,38.34,78.39,1629.98,Niger,Vegetative,52,Laterite soils,5.5,8
+30.93,19.99,22.15,30.77,1488.68,Maize,Flowering / Reproductive,81,Black soils,6.0,7
+35.33,25.04,11.32,62.0,836.54,Maize,Sowing / Germination,11,Red and Yellow soils,6.0,8
+14.42,30.5,23.43,47.36,1292.75,Gram,Flowering / Reproductive,75,Red and Yellow soils,7.0,3
+41.29,29.44,10.25,84.53,1923.28,Rice,Flowering / Reproductive,88,Red and Yellow soils,6.5,5
+14.42,27.49,20.87,39.84,1824.58,Maize,Vegetative,30,Black soils,5.5,4
+32.78,26.46,20.97,80.77,1240.94,Jwar,Flowering / Reproductive,71,Laterite soils,5.5,4
+40.7,28.89,29.71,21.23,1906.55,Mustard,Vegetative,31,Alluvial soils,5.0,3
+15.02,25.66,37.91,85.73,739.56,summer paddy,Sowing / Germination,5,Laterite soils,7.5,1
+40.65,21.51,19.02,66.08,1757.52,Mustard,Flowering / Reproductive,86,Alluvial soils,7.0,11
+27.91,26.48,19.45,22.87,1795.33,Groundnut,Vegetative,39,Red and Yellow soils,6.5,5
+41.47,27.71,13.83,70.31,551.37,Til,Flowering / Reproductive,72,Laterite soils,6.5,8
+9.8,29.87,32.58,79.75,1921.4,Til,Vegetative,22,Laterite soils,6.0,11
+12.31,22.18,39.19,36.19,813.51,Arhar,Maturity / Harvesting,99,Black soils,5.5,0
+10.08,26.13,13.2,63.73,1475.21,Gram,Vegetative,26,Red and Yellow soils,7.0,13
+44.74,26.27,38.0,59.79,1552.53,Soybean,Sowing / Germination,9,Black soils,6.0,6
+42.15,23.2,31.29,41.47,311.19,Niger,Vegetative,17,Laterite soils,5.5,5
+29.87,27.96,28.57,41.71,262.61,Maize,Flowering / Reproductive,94,Black soils,6.0,2
+42.47,28.74,24.64,41.59,239.51,Niger,Flowering / Reproductive,92,Red and Yellow soils,4.5,0
+44.58,25.63,25.5,84.17,1699.14,Pea,Vegetative,36,Laterite soils,5.5,12
+24.96,32.67,35.28,28.57,268.33,Jwar,Maturity / Harvesting,103,Alluvial soils,6.5,3
+41.57,25.54,35.1,52.29,1411.82,Wheat,Vegetative,55,Alluvial soils,7.5,14
+29.58,25.16,10.06,30.92,1638.2,Tiwra,Vegetative,32,Black soils,6.5,13
+38.77,25.07,37.23,36.26,1677.61,Tiwra,Maturity / Harvesting,123,Red and Yellow soils,5.5,8
+36.36,24.05,39.6,24.2,1755.33,Til,Maturity / Harvesting,121,Laterite soils,5.5,14
+39.33,24.82,14.53,27.99,1825.16,Til,Flowering / Reproductive,76,Alluvial soils,6.5,1
+24.69,22.2,32.09,81.56,1550.97,Masoor,Maturity / Harvesting,128,Laterite soils,5.5,2
+15.41,25.93,21.13,62.88,623.92,Pea,Sowing / Germination,14,Alluvial soils,7.0,1
+23.45,26.67,25.38,83.19,850.63,Mustard,Maturity / Harvesting,97,Alluvial soils,6.0,13
+14.86,19.65,29.17,45.38,1219.24,Til,Vegetative,19,Red and Yellow soils,5.5,1
+40.46,26.19,29.57,84.19,689.08,Pea,Sowing / Germination,14,Black soils,5.5,9
+41.09,26.63,27.99,28.45,1156.65,Mustard,Vegetative,17,Black soils,6.5,10
+42.05,28.04,18.05,56.02,488.07,Arhar,Vegetative,37,Laterite soils,4.5,10
+15.13,30.11,14.58,51.0,1741.34,Maize,Vegetative,53,Alluvial soils,4.5,7
+34.2,29.05,34.67,45.17,1442.05,Maize,Vegetative,44,Laterite soils,5.0,2
+12.11,24.64,27.01,79.74,529.03,Til,Sowing / Germination,2,Black soils,6.5,6
+21.21,24.29,35.42,40.61,241.59,Maize,Vegetative,59,Black soils,4.5,7
+40.52,28.24,32.18,51.61,1860.51,Gram,Vegetative,37,Alluvial soils,6.0,2
+21.96,24.86,18.86,33.11,1934.77,Arhar,Vegetative,41,Alluvial soils,5.5,1
+35.54,22.82,36.86,72.41,1606.75,Niger,Vegetative,24,Black soils,6.0,12
+34.64,33.62,22.65,63.0,619.33,summer paddy,Flowering / Reproductive,84,Black soils,5.5,12
+14.99,25.57,17.39,80.87,1262.74,Kulthi,Maturity / Harvesting,107,Red and Yellow soils,6.5,7
+41.48,24.62,10.69,25.18,533.34,Moong,Flowering / Reproductive,75,Black soils,7.0,2
+36.19,19.92,10.7,88.65,499.67,Soybean,Vegetative,55,Black soils,6.5,6
+6.72,29.05,30.49,37.41,1068.85,Groundnut,Flowering / Reproductive,93,Black soils,6.0,11
+18.64,23.54,30.18,73.67,1933.44,Moong,Sowing / Germination,7,Alluvial soils,5.5,0
+13.72,26.59,13.18,54.27,1876.2,Soybean,Sowing / Germination,5,Alluvial soils,6.0,13
+35.54,29.41,16.53,78.78,1722.13,Tiwra,Vegetative,36,Alluvial soils,7.0,14
+24.41,23.58,25.7,65.37,690.58,Mustard,Flowering / Reproductive,76,Alluvial soils,6.5,11
+24.13,26.74,23.6,72.12,1882.25,Niger,Vegetative,37,Laterite soils,7.0,5
+37.17,31.07,35.85,54.91,575.29,Til,Sowing / Germination,6,Red and Yellow soils,6.0,11
+20.48,19.13,36.14,40.73,1547.44,Tiwra,Sowing / Germination,4,Alluvial soils,6.5,11
+9.75,24.07,15.2,73.83,1027.6,Rice,Maturity / Harvesting,103,Black soils,6.0,12
+38.16,23.79,32.36,55.96,1630.54,Wheat,Flowering / Reproductive,61,Black soils,6.5,8
+44.41,25.94,31.47,35.42,1156.79,Gram,Vegetative,46,Black soils,6.0,11
+22.78,26.36,10.18,55.78,766.1,Moong,Vegetative,36,Laterite soils,5.5,2
+25.47,23.32,37.86,67.11,1234.59,Masoor,Vegetative,57,Alluvial soils,5.5,13
+37.5,24.54,11.49,72.99,1991.28,Tiwra,Flowering / Reproductive,72,Black soils,5.0,6
+23.26,24.18,11.26,35.29,1814.67,Niger,Vegetative,22,Alluvial soils,5.5,12
+25.21,25.45,24.01,31.87,1537.43,Gram,Maturity / Harvesting,95,Black soils,6.5,5
+36.17,27.15,22.29,86.9,537.76,Til,Vegetative,31,Alluvial soils,5.5,7
+39.11,29.23,32.21,52.51,1626.54,Rice,Flowering / Reproductive,71,Laterite soils,6.0,2
+42.58,29.67,18.81,78.69,901.75,Gram,Sowing / Germination,4,Black soils,6.0,2
+14.16,28.46,17.02,53.42,1645.79,Kulthi,Vegetative,27,Alluvial soils,6.5,3
+38.53,23.88,20.75,30.77,698.37,Mustard,Vegetative,45,Alluvial soils,5.5,2
+19.76,26.49,13.33,47.95,1133.38,Wheat,Vegetative,55,Red and Yellow soils,5.0,8
+34.86,33.62,38.26,44.48,1572.8,Soybean,Sowing / Germination,11,Black soils,6.5,10
+23.22,29.54,31.75,49.88,1454.61,Wheat,Flowering / Reproductive,66,Red and Yellow soils,6.5,3
+9.26,25.18,22.84,35.39,1426.55,Soybean,Vegetative,37,Laterite soils,6.5,5
+40.86,31.25,34.29,81.07,1555.18,Til,Flowering / Reproductive,83,Laterite soils,6.0,7
+29.49,25.34,25.64,82.42,315.53,Tiwra,Flowering / Reproductive,64,Alluvial soils,6.5,10
+7.75,24.49,33.98,81.92,1983.14,Kulthi,Vegetative,19,Black soils,6.5,12
+21.22,30.69,19.31,67.5,1624.18,Mustard,Flowering / Reproductive,76,Black soils,7.5,7
+11.59,22.57,28.16,63.95,214.78,summer paddy,Flowering / Reproductive,89,Black soils,6.5,14
+23.52,20.76,27.74,52.38,1024.82,Kulthi,Vegetative,23,Laterite soils,4.5,4
+13.62,29.32,39.19,45.5,1874.39,Urd,Flowering / Reproductive,65,Alluvial soils,6.0,4
+38.99,26.58,36.2,87.37,1189.2,Niger,Vegetative,39,Black soils,5.5,5
+43.24,26.88,26.82,83.72,1890.78,Gram,Vegetative,33,Laterite soils,5.0,9
+31.99,25.42,17.74,73.91,373.98,Arhar,Flowering / Reproductive,75,Laterite soils,5.5,6
+24.1,25.78,39.2,67.63,511.17,Urd,Vegetative,35,Black soils,6.0,12
+12.92,25.13,34.88,71.33,700.82,Gram,Vegetative,16,Red and Yellow soils,4.5,12
+42.19,24.62,11.67,57.4,1142.94,Millets,Vegetative,24,Alluvial soils,5.0,9
+43.04,25.35,17.51,69.96,979.02,Jwar,Flowering / Reproductive,75,Red and Yellow soils,7.5,13
+35.05,25.26,37.03,75.99,216.97,Groundnut,Maturity / Harvesting,109,Laterite soils,7.0,6
+41.88,24.01,39.89,20.33,1919.22,Masoor,Vegetative,27,Red and Yellow soils,6.0,12
+26.0,24.86,20.61,74.63,1300.61,Gram,Flowering / Reproductive,72,Alluvial soils,6.5,3
+14.63,18.99,21.04,24.52,1317.44,Jwar,Maturity / Harvesting,126,Black soils,6.0,5
+40.81,28.55,39.86,76.72,1477.56,Rice,Sowing / Germination,13,Red and Yellow soils,5.5,6
+40.51,27.67,11.32,22.91,811.62,Mustard,Vegetative,22,Laterite soils,5.0,4
+11.14,26.25,28.02,82.75,1944.47,Maize,Flowering / Reproductive,77,Red and Yellow soils,8.0,4
+44.93,27.21,27.49,20.1,1031.69,Groundnut,Flowering / Reproductive,85,Alluvial soils,6.0,1
+10.43,27.32,22.0,27.47,1929.96,Gram,Maturity / Harvesting,104,Black soils,6.5,6
+12.25,24.33,33.04,66.26,256.83,Wheat,Vegetative,45,Black soils,5.5,11
+34.5,24.9,14.53,76.86,1914.32,Gram,Sowing / Germination,1,Alluvial soils,7.0,5
+42.33,28.08,22.9,68.2,1522.42,Gram,Vegetative,43,Red and Yellow soils,5.5,10
+30.76,27.12,23.24,69.69,614.34,summer paddy,Vegetative,19,Black soils,6.0,0
+38.94,32.63,35.74,35.9,1419.64,Groundnut,Vegetative,27,Laterite soils,6.0,3
+25.35,31.36,13.34,56.7,1166.55,summer paddy,Flowering / Reproductive,60,Laterite soils,5.5,2
+38.11,29.3,23.51,80.2,1004.34,Millets,Sowing / Germination,7,Red and Yellow soils,6.0,11
+18.45,24.21,22.8,37.99,409.31,Maize,Flowering / Reproductive,62,Alluvial soils,6.5,14
+41.06,24.81,28.71,29.8,1922.02,Kulthi,Vegetative,17,Alluvial soils,6.5,2
+33.25,23.49,12.36,55.25,1527.23,Masoor,Vegetative,21,Red and Yellow soils,7.0,6
+34.22,27.34,26.9,48.91,746.29,Kulthi,Sowing / Germination,4,Laterite soils,6.0,10
+35.62,18.28,34.57,32.6,1784.42,Moong,Vegetative,49,Black soils,6.5,11
+44.21,25.12,24.84,70.66,775.29,Niger,Sowing / Germination,8,Red and Yellow soils,5.5,9
+39.74,25.58,13.42,23.2,291.01,Jwar,Maturity / Harvesting,97,Red and Yellow soils,5.5,3
+22.32,21.93,34.46,34.1,1605.55,Niger,Flowering / Reproductive,88,Alluvial soils,6.0,14
+39.45,28.89,25.35,57.9,523.77,Masoor,Vegetative,44,Alluvial soils,5.5,11
+33.87,23.08,24.17,58.33,527.21,Moong,Vegetative,53,Laterite soils,8.0,7
+11.44,27.3,24.84,81.3,410.6,Soybean,Maturity / Harvesting,112,Laterite soils,6.5,10
+40.45,34.85,22.36,56.61,1551.05,Jwar,Vegetative,25,Alluvial soils,6.0,8
+14.29,21.67,37.87,86.56,711.97,Maize,Sowing / Germination,11,Laterite soils,6.0,2
+38.19,26.05,26.35,85.03,1370.85,Moong,Vegetative,52,Alluvial soils,6.5,4
+9.67,25.28,34.58,89.47,753.81,Maize,Maturity / Harvesting,95,Red and Yellow soils,6.0,3
+35.45,24.69,22.26,71.48,495.7,Pea,Sowing / Germination,13,Alluvial soils,7.5,13
+36.58,28.78,39.76,55.86,1928.99,Maize,Vegetative,24,Black soils,4.5,11
+33.52,29.82,36.12,85.25,1546.53,Groundnut,Maturity / Harvesting,122,Black soils,6.5,9
+35.92,28.81,24.39,73.55,709.89,Til,Sowing / Germination,9,Laterite soils,6.0,14
+15.71,24.33,14.35,70.0,1142.32,Jwar,Sowing / Germination,3,Black soils,6.5,5
+22.6,33.8,30.83,63.32,1506.77,summer paddy,Vegetative,17,Alluvial soils,6.5,10
+15.52,21.19,10.91,52.35,1563.22,Mustard,Maturity / Harvesting,109,Red and Yellow soils,6.5,9
+29.46,23.4,14.59,41.76,952.52,Masoor,Vegetative,47,Black soils,7.0,3
+26.03,27.01,19.74,33.04,629.59,Rice,Maturity / Harvesting,120,Laterite soils,5.5,7
+13.17,26.77,27.28,75.67,1153.5,Mustard,Flowering / Reproductive,75,Red and Yellow soils,5.5,2
+36.0,27.96,19.84,89.06,1482.26,Maize,Sowing / Germination,4,Laterite soils,4.5,10
+39.17,31.24,23.96,54.76,261.27,Soybean,Maturity / Harvesting,127,Black soils,5.0,4
+39.36,26.14,13.84,45.38,1242.93,Pea,Vegetative,34,Black soils,6.0,12
+34.89,26.84,37.32,51.87,1728.76,summer paddy,Vegetative,27,Laterite soils,8.0,0
+38.32,24.72,27.69,69.79,1132.11,Arhar,Vegetative,47,Laterite soils,6.5,12
+25.38,28.26,14.19,74.28,907.37,Wheat,Vegetative,19,Laterite soils,6.0,14
+8.99,25.54,23.67,85.6,992.33,Mustard,Sowing / Germination,5,Alluvial soils,7.0,5
+31.17,25.54,30.29,66.99,355.45,Kulthi,Sowing / Germination,14,Laterite soils,8.0,10
+37.67,28.13,22.13,44.41,1775.86,Wheat,Vegetative,41,Red and Yellow soils,5.0,4
+6.07,29.6,20.24,72.08,1322.31,Masoor,Flowering / Reproductive,82,Alluvial soils,6.5,7
+27.41,19.88,13.27,49.48,1492.8,Kulthi,Vegetative,28,Black soils,7.5,8
+21.96,27.58,15.22,46.81,1583.94,Groundnut,Maturity / Harvesting,98,Black soils,5.5,7
+41.62,25.69,22.6,42.79,1261.59,Wheat,Vegetative,53,Black soils,7.0,7
+21.79,29.34,37.37,75.38,1089.43,Jwar,Vegetative,33,Black soils,5.0,11
+4.81,25.75,20.43,88.75,328.78,Wheat,Sowing / Germination,6,Black soils,6.0,13
+40.46,30.4,13.07,20.95,316.44,summer paddy,Sowing / Germination,4,Red and Yellow soils,6.0,12
+13.54,24.47,27.26,51.66,1477.93,Soybean,Vegetative,44,Alluvial soils,6.0,2
+29.46,19.81,31.3,46.26,1577.46,Jwar,Flowering / Reproductive,78,Alluvial soils,6.5,3
+24.66,29.65,17.99,63.15,291.55,Groundnut,Maturity / Harvesting,125,Black soils,7.0,14
+38.98,23.97,11.18,25.08,1680.92,Kulthi,Maturity / Harvesting,125,Black soils,6.5,10
+39.26,21.76,20.55,52.21,1589.74,summer paddy,Vegetative,23,Black soils,6.0,3
+15.73,26.55,21.45,38.16,1872.46,Niger,Maturity / Harvesting,107,Alluvial soils,5.5,14
+28.27,25.78,30.83,28.09,1992.94,Wheat,Vegetative,28,Red and Yellow soils,6.0,14
+37.32,28.97,31.36,53.03,1054.03,Urd,Sowing / Germination,7,Alluvial soils,6.0,13
+29.7,29.18,15.71,83.44,1115.29,Jwar,Maturity / Harvesting,104,Black soils,7.0,10
+39.51,26.79,29.98,85.2,978.56,Tiwra,Flowering / Reproductive,90,Laterite soils,6.0,4
+16.56,23.85,13.04,53.76,1730.32,Millets,Sowing / Germination,5,Alluvial soils,4.5,12
+15.56,27.36,11.58,46.54,1619.75,Groundnut,Vegetative,37,Black soils,6.5,8
+38.11,27.0,33.68,24.88,1151.72,Masoor,Vegetative,41,Alluvial soils,5.5,11
+13.61,28.21,37.87,66.02,1511.33,Groundnut,Flowering / Reproductive,65,Alluvial soils,4.5,8
+10.03,23.88,24.91,76.23,1704.78,Tiwra,Vegetative,40,Black soils,7.5,9
+26.22,25.3,38.17,71.71,1984.11,Tiwra,Maturity / Harvesting,96,Red and Yellow soils,7.5,12
+24.17,28.03,11.44,43.7,907.32,Soybean,Sowing / Germination,13,Alluvial soils,8.0,11
+16.79,30.24,21.8,52.9,352.15,Arhar,Vegetative,27,Red and Yellow soils,5.5,13
+30.41,29.4,31.4,34.48,1441.83,Mustard,Vegetative,33,Red and Yellow soils,4.5,0
+35.71,26.75,12.64,62.97,1624.09,Niger,Vegetative,15,Alluvial soils,7.0,13
+43.55,25.04,36.1,87.0,1632.28,Jwar,Vegetative,54,Red and Yellow soils,5.5,13
+43.52,27.71,26.78,82.06,1535.48,Wheat,Flowering / Reproductive,91,Black soils,5.5,7
+20.4,23.23,36.14,31.41,760.33,Mustard,Maturity / Harvesting,116,Laterite soils,6.5,13
+35.11,24.05,19.57,37.06,1940.44,Kulthi,Maturity / Harvesting,123,Black soils,5.5,0
+16.03,31.03,33.0,86.42,317.71,Maize,Flowering / Reproductive,61,Red and Yellow soils,7.5,1
+40.45,27.71,26.75,65.49,1517.54,summer paddy,Maturity / Harvesting,105,Alluvial soils,5.5,6
+26.81,25.46,12.71,54.51,735.75,Arhar,Vegetative,31,Black soils,6.5,14
+40.98,28.99,37.85,42.22,1500.33,Mustard,Flowering / Reproductive,67,Red and Yellow soils,8.0,7
+18.47,30.36,19.46,76.31,641.83,Soybean,Vegetative,36,Black soils,6.0,0
+32.58,25.17,34.56,37.16,506.22,Til,Vegetative,18,Black soils,6.0,14
+38.66,25.22,27.48,31.75,329.26,Pea,Vegetative,25,Red and Yellow soils,5.0,2
+37.52,24.84,13.05,35.15,945.05,Til,Vegetative,22,Red and Yellow soils,8.0,6
+42.69,29.39,12.2,27.15,1448.49,Millets,Vegetative,23,Red and Yellow soils,5.5,12
+12.25,29.42,32.26,73.44,799.15,Gram,Maturity / Harvesting,120,Red and Yellow soils,7.0,8
+35.09,30.66,19.88,72.54,1803.97,summer paddy,Vegetative,16,Alluvial soils,5.5,7
+12.48,29.53,37.95,69.38,1249.88,Groundnut,Sowing / Germination,6,Alluvial soils,4.5,7
+16.2,21.6,23.33,20.77,1775.38,Niger,Vegetative,35,Alluvial soils,6.5,14
+37.24,27.34,21.58,29.35,805.54,Til,Sowing / Germination,10,Laterite soils,6.0,8
+39.28,23.32,19.74,48.88,526.38,Wheat,Sowing / Germination,11,Red and Yellow soils,4.5,9
+23.95,24.96,16.71,87.66,1205.03,Jwar,Vegetative,33,Red and Yellow soils,6.0,2
+25.66,27.01,38.0,59.74,344.76,Millets,Vegetative,42,Red and Yellow soils,6.5,7
+40.62,29.01,11.86,73.9,715.27,Arhar,Vegetative,22,Black soils,7.5,0
+12.99,23.83,33.54,32.21,426.26,Masoor,Flowering / Reproductive,73,Black soils,6.5,7
+15.35,19.53,25.74,55.18,403.18,Niger,Flowering / Reproductive,83,Black soils,5.0,12
+41.77,27.04,34.07,40.15,1693.98,Til,Vegetative,58,Red and Yellow soils,6.0,6
+30.06,34.43,27.32,84.78,613.54,Jwar,Vegetative,51,Laterite soils,6.5,12
+40.43,25.89,32.66,82.92,1810.8,Pea,Vegetative,40,Red and Yellow soils,6.5,14
+41.98,26.64,21.12,65.5,950.21,Groundnut,Flowering / Reproductive,90,Laterite soils,7.0,7
+9.84,31.85,12.24,46.44,1472.21,Wheat,Sowing / Germination,8,Black soils,7.0,0
+40.46,28.27,39.17,75.73,737.95,Til,Sowing / Germination,3,Alluvial soils,5.5,5
+16.83,27.15,23.47,26.29,1128.7,Pea,Flowering / Reproductive,91,Alluvial soils,6.5,6
+36.17,27.83,22.27,84.52,1450.5,summer paddy,Vegetative,55,Alluvial soils,5.0,13
+44.45,27.25,31.95,89.91,650.81,Masoor,Sowing / Germination,2,Laterite soils,7.0,10
+41.37,23.08,37.77,61.55,1147.52,Gram,Vegetative,39,Black soils,6.0,4
+39.54,22.48,25.86,45.83,561.33,Tiwra,Maturity / Harvesting,96,Black soils,5.5,13
+39.95,32.16,15.9,88.68,1384.19,Maize,Maturity / Harvesting,95,Alluvial soils,6.0,4
+20.94,27.05,11.17,37.27,635.62,Wheat,Flowering / Reproductive,71,Black soils,5.0,6
+36.02,26.8,27.88,40.67,1678.52,Niger,Vegetative,23,Red and Yellow soils,5.5,14
+16.47,26.23,14.21,64.72,645.22,summer paddy,Vegetative,50,Black soils,6.5,10
+40.09,28.84,36.26,87.05,1391.44,Moong,Maturity / Harvesting,122,Red and Yellow soils,6.0,14
+13.23,34.12,21.2,58.35,543.13,Urd,Maturity / Harvesting,127,Red and Yellow soils,5.5,2
+37.93,28.07,38.42,32.52,1225.81,Rice,Vegetative,56,Black soils,6.5,5
+36.18,24.74,24.43,58.15,237.21,Wheat,Flowering / Reproductive,81,Alluvial soils,6.5,6
+40.95,26.1,29.97,84.89,1498.84,Masoor,Sowing / Germination,9,Laterite soils,7.0,0
+14.57,29.71,39.88,54.82,1882.52,Pea,Vegetative,32,Alluvial soils,7.0,11
+28.76,24.75,18.92,22.3,966.0,Millets,Flowering / Reproductive,65,Black soils,6.5,1
+34.3,29.06,26.68,71.11,912.59,Gram,Vegetative,32,Laterite soils,8.0,11
+40.39,19.54,20.82,39.66,907.37,Millets,Maturity / Harvesting,110,Red and Yellow soils,8.0,3
+27.73,25.81,14.63,35.33,333.86,Pea,Sowing / Germination,8,Laterite soils,6.0,12
+41.94,28.38,21.01,22.91,1632.33,Gram,Vegetative,27,Red and Yellow soils,7.5,7
+12.9,30.31,38.2,27.11,754.73,Groundnut,Maturity / Harvesting,101,Red and Yellow soils,6.0,10
+42.17,24.04,20.0,27.43,1091.3,Maize,Maturity / Harvesting,111,Black soils,7.5,12
+35.78,21.99,38.68,20.35,1131.2,Gram,Sowing / Germination,2,Alluvial soils,6.0,13
+33.11,25.72,14.2,88.67,319.43,Rice,Vegetative,46,Black soils,7.0,9
+40.78,23.12,28.55,61.03,1312.84,summer paddy,Flowering / Reproductive,81,Red and Yellow soils,7.0,5
+34.55,26.05,38.84,31.09,1498.84,Rice,Sowing / Germination,7,Alluvial soils,7.5,0
+20.52,26.48,20.45,57.54,1396.6,Mustard,Maturity / Harvesting,107,Laterite soils,7.0,9
+13.23,22.54,18.9,75.6,1306.51,summer paddy,Maturity / Harvesting,117,Laterite soils,6.0,4
+10.08,28.91,16.58,87.94,1059.87,Til,Sowing / Germination,14,Laterite soils,5.5,6
+42.12,26.03,15.96,72.47,703.59,Kulthi,Sowing / Germination,6,Laterite soils,5.5,14
+44.23,29.74,16.91,45.69,1187.79,Gram,Sowing / Germination,13,Black soils,5.5,12
+41.21,20.97,26.79,67.09,300.96,Wheat,Maturity / Harvesting,116,Red and Yellow soils,5.5,5
+39.54,23.45,26.75,73.93,269.08,Niger,Sowing / Germination,1,Black soils,5.0,12
+12.16,28.05,11.2,76.15,1125.46,summer paddy,Vegetative,43,Red and Yellow soils,5.5,12
+19.5,24.1,14.35,21.99,1156.65,Groundnut,Vegetative,19,Red and Yellow soils,5.5,11
+23.06,26.01,35.34,42.32,1212.41,Gram,Vegetative,49,Black soils,6.0,8
+38.79,26.5,34.06,26.13,1428.27,Rice,Sowing / Germination,7,Black soils,6.5,7
+38.11,26.97,10.6,79.48,1381.14,Soybean,Vegetative,24,Alluvial soils,6.0,14
+18.51,24.47,18.34,85.02,262.5,Arhar,Maturity / Harvesting,113,Laterite soils,4.5,3
+13.46,26.95,35.77,65.62,808.38,Til,Maturity / Harvesting,101,Red and Yellow soils,7.5,12
+42.5,24.15,19.5,43.54,1426.51,Arhar,Flowering / Reproductive,94,Laterite soils,6.5,10
+37.66,28.52,19.27,81.88,638.5,Soybean,Sowing / Germination,13,Red and Yellow soils,5.0,11
+41.05,26.16,30.33,37.31,1646.31,Soybean,Vegetative,27,Black soils,6.5,4
+21.4,26.97,15.14,66.4,890.94,Moong,Flowering / Reproductive,69,Black soils,6.0,6
+30.41,34.21,15.75,47.36,1804.76,Pea,Vegetative,16,Black soils,5.5,7
+44.16,23.18,17.88,83.32,1174.5,Groundnut,Maturity / Harvesting,100,Alluvial soils,6.0,4
+13.98,30.67,24.72,30.37,1319.56,Masoor,Flowering / Reproductive,67,Alluvial soils,6.0,8
+5.18,18.52,11.12,84.63,251.07,summer paddy,Sowing / Germination,4,Alluvial soils,6.5,13
+21.56,20.26,29.65,65.64,990.1,Tiwra,Maturity / Harvesting,119,Red and Yellow soils,6.0,9
+18.36,22.78,15.68,35.07,1198.46,Jwar,Maturity / Harvesting,101,Red and Yellow soils,6.5,11
+10.01,22.97,18.84,25.41,933.54,Groundnut,Sowing / Germination,14,Red and Yellow soils,7.5,3
+41.45,27.11,19.38,63.31,823.45,Maize,Vegetative,37,Red and Yellow soils,7.0,3
+24.29,27.37,26.85,80.26,1651.4,Pea,Vegetative,33,Alluvial soils,5.5,12
+13.58,25.74,38.49,71.28,1454.06,Kulthi,Vegetative,36,Black soils,6.5,7
+14.99,26.05,31.9,45.93,1429.32,Maize,Sowing / Germination,13,Laterite soils,7.0,0
+41.08,28.08,21.25,41.74,1281.23,Niger,Vegetative,35,Laterite soils,6.0,7
+41.51,29.0,10.1,60.38,1477.93,Gram,Maturity / Harvesting,95,Laterite soils,5.5,4
+33.12,22.52,12.93,29.93,1548.52,Groundnut,Vegetative,33,Red and Yellow soils,6.0,12
+41.43,25.41,20.75,58.25,1844.42,Til,Sowing / Germination,13,Red and Yellow soils,7.0,13
+42.14,26.29,30.12,41.25,555.31,Kulthi,Flowering / Reproductive,92,Red and Yellow soils,7.0,10
+31.57,27.96,36.2,79.4,1097.56,Til,Vegetative,18,Black soils,7.0,0
+41.96,24.18,27.01,22.72,1558.9,summer paddy,Maturity / Harvesting,97,Laterite soils,6.0,3
+18.93,26.23,13.03,29.96,266.23,Arhar,Vegetative,41,Alluvial soils,7.0,1
+13.23,26.59,26.74,75.04,1568.36,Arhar,Sowing / Germination,4,Red and Yellow soils,6.0,3
+20.33,24.39,26.04,63.19,1527.13,Millets,Sowing / Germination,9,Red and Yellow soils,7.5,7
+16.07,24.32,25.21,44.06,783.51,Masoor,Flowering / Reproductive,94,Alluvial soils,6.5,4
+40.75,26.8,14.52,61.68,879.26,Wheat,Vegetative,42,Alluvial soils,7.0,0
+41.52,26.11,16.41,29.35,645.55,Til,Flowering / Reproductive,65,Black soils,7.0,6
+31.99,28.0,38.81,47.35,246.85,Til,Vegetative,20,Black soils,4.5,0
+39.25,23.34,38.67,30.28,793.53,Til,Vegetative,58,Alluvial soils,6.5,8
+25.47,25.45,15.6,49.07,330.57,Niger,Vegetative,37,Alluvial soils,5.5,2
+42.24,25.81,28.68,86.16,620.18,Wheat,Maturity / Harvesting,127,Alluvial soils,5.0,11
+42.05,28.94,11.37,34.49,750.52,Mustard,Maturity / Harvesting,110,Laterite soils,5.5,2
+37.24,23.68,14.77,69.96,698.42,Rice,Vegetative,38,Alluvial soils,7.0,14
+40.29,27.2,25.63,52.8,1133.5,Soybean,Vegetative,19,Red and Yellow soils,5.5,14
+41.74,27.26,37.99,23.68,1330.04,Tiwra,Sowing / Germination,9,Alluvial soils,6.5,5
+9.28,31.44,22.19,56.97,284.41,Moong,Vegetative,56,Laterite soils,6.5,9
+28.42,23.48,26.22,42.55,1809.42,Pea,Vegetative,27,Red and Yellow soils,4.5,5
+16.18,24.53,34.38,27.28,985.13,Pea,Maturity / Harvesting,106,Alluvial soils,5.5,12
+31.67,23.69,36.1,46.26,438.95,Urd,Maturity / Harvesting,99,Red and Yellow soils,7.0,10
+35.64,21.49,26.92,23.46,1262.24,Groundnut,Vegetative,51,Laterite soils,5.5,10
+40.47,31.79,29.5,83.19,321.6,summer paddy,Vegetative,45,Laterite soils,6.0,5
+29.79,22.78,33.05,62.29,1493.27,Soybean,Maturity / Harvesting,122,Black soils,7.0,12
+14.95,24.05,22.34,52.95,664.41,Til,Flowering / Reproductive,87,Red and Yellow soils,6.5,0
+14.92,30.45,32.77,37.81,1249.88,Urd,Sowing / Germination,14,Alluvial soils,7.5,4
+22.68,21.24,21.87,51.74,986.76,Maize,Vegetative,32,Black soils,5.5,11
+10.41,28.77,33.01,49.66,540.33,Mustard,Vegetative,58,Red and Yellow soils,6.0,5
+31.61,22.26,12.52,56.04,1203.59,Til,Vegetative,41,Alluvial soils,4.5,7
+11.92,30.24,22.13,74.86,293.2,Soybean,Sowing / Germination,3,Black soils,5.5,12
+31.97,19.99,22.22,58.51,816.43,Urd,Sowing / Germination,10,Alluvial soils,5.5,0
+20.63,21.24,31.11,24.08,814.58,Gram,Flowering / Reproductive,77,Red and Yellow soils,7.0,4
+25.24,24.87,38.75,85.46,989.39,Millets,Vegetative,47,Laterite soils,5.5,2
+41.1,29.42,23.03,52.75,1326.01,Moong,Sowing / Germination,9,Alluvial soils,7.0,1
+44.55,26.41,31.27,23.89,1363.8,Wheat,Vegetative,45,Black soils,5.0,10
+21.23,25.49,17.74,37.46,415.92,Jwar,Flowering / Reproductive,61,Laterite soils,6.0,7
+43.52,30.54,23.45,33.23,1585.58,Urd,Maturity / Harvesting,127,Black soils,5.5,6
+25.32,32.97,22.24,50.05,1774.98,Jwar,Vegetative,53,Laterite soils,6.0,9
+17.83,28.52,15.46,73.02,663.14,Pea,Vegetative,57,Laterite soils,6.0,6
+29.87,24.63,21.3,45.5,584.92,Kulthi,Maturity / Harvesting,126,Alluvial soils,5.0,4
+17.9,25.25,11.81,87.53,1225.64,Masoor,Vegetative,32,Red and Yellow soils,6.0,11
+21.29,22.63,36.96,50.43,528.28,Groundnut,Vegetative,31,Red and Yellow soils,5.5,12
+34.97,26.8,28.54,72.29,485.39,Moong,Vegetative,48,Laterite soils,6.0,8
+27.03,21.61,39.12,65.95,1978.55,summer paddy,Sowing / Germination,7,Black soils,7.0,4
+15.12,28.16,11.21,37.72,780.42,Mustard,Vegetative,21,Laterite soils,6.5,1
+41.48,32.52,38.51,65.3,1871.71,summer paddy,Maturity / Harvesting,129,Laterite soils,6.5,2
+24.75,28.65,28.83,88.43,646.37,Tiwra,Flowering / Reproductive,89,Alluvial soils,6.5,3
+42.58,25.09,16.08,45.85,1460.63,Pea,Vegetative,26,Alluvial soils,6.5,14
+37.83,28.08,15.36,89.28,452.43,Til,Maturity / Harvesting,129,Alluvial soils,7.0,4
+35.15,31.36,24.51,59.43,1903.99,Groundnut,Sowing / Germination,11,Alluvial soils,4.5,12
+40.53,31.21,39.31,56.4,1763.5,Til,Vegetative,58,Black soils,6.5,2
+12.27,23.49,22.21,47.62,859.66,Mustard,Vegetative,18,Black soils,6.0,11
+17.67,28.03,28.49,76.93,1677.61,Niger,Flowering / Reproductive,84,Alluvial soils,6.0,13
+43.44,26.03,12.87,58.88,1992.29,Jwar,Sowing / Germination,4,Black soils,6.5,6
+36.67,28.92,18.72,36.24,1515.67,Rice,Vegetative,45,Red and Yellow soils,7.0,4
+27.0,27.65,38.09,42.64,552.09,Rice,Flowering / Reproductive,63,Laterite soils,5.0,4
+17.61,19.39,19.81,37.62,1157.49,summer paddy,Flowering / Reproductive,60,Black soils,6.0,5
+38.07,25.46,24.73,61.82,1524.99,Soybean,Flowering / Reproductive,62,Red and Yellow soils,6.0,6
+41.37,27.1,16.89,75.66,1535.37,summer paddy,Vegetative,51,Black soils,7.5,9
+32.73,22.2,11.43,88.49,735.24,Jwar,Sowing / Germination,6,Black soils,7.0,9
+15.68,28.24,11.75,46.23,635.62,Gram,Vegetative,31,Alluvial soils,6.5,7
+17.45,21.93,15.16,86.52,1460.04,Mustard,Sowing / Germination,14,Red and Yellow soils,6.0,8
+37.79,24.1,18.64,82.77,652.34,Niger,Maturity / Harvesting,108,Black soils,7.0,10
+33.0,30.52,20.92,24.4,684.69,Soybean,Vegetative,55,Black soils,5.0,3
+17.4,23.85,39.37,29.41,1364.96,Tiwra,Vegetative,49,Red and Yellow soils,6.0,4
+12.99,28.22,38.74,46.24,476.99,Moong,Flowering / Reproductive,72,Red and Yellow soils,7.0,14
+21.25,21.24,17.91,61.34,279.44,Rice,Vegetative,49,Red and Yellow soils,6.0,4
+28.22,32.74,13.49,54.73,591.19,Pea,Vegetative,57,Red and Yellow soils,6.5,7
+37.6,25.59,19.15,62.69,442.71,Gram,Flowering / Reproductive,61,Red and Yellow soils,5.5,8
+38.06,26.79,31.43,61.14,400.8,Rice,Maturity / Harvesting,107,Alluvial soils,6.5,6
+11.74,27.04,34.41,58.93,321.36,Masoor,Flowering / Reproductive,75,Alluvial soils,5.5,14
+17.74,28.32,14.96,60.74,241.65,Niger,Sowing / Germination,2,Laterite soils,6.5,4
+44.74,21.94,18.17,55.36,1294.27,Pea,Vegetative,21,Alluvial soils,6.0,2
+28.1,26.48,27.85,33.47,983.16,Soybean,Flowering / Reproductive,89,Laterite soils,6.0,0
+29.27,24.52,25.4,34.73,1154.82,Soybean,Sowing / Germination,10,Alluvial soils,8.0,10
+41.1,21.43,22.0,40.88,1874.63,Millets,Vegetative,55,Laterite soils,7.0,8
+23.49,29.46,36.52,77.37,1692.89,Urd,Maturity / Harvesting,101,Black soils,7.5,4
+43.0,25.44,35.1,39.7,1551.48,Pea,Sowing / Germination,12,Red and Yellow soils,5.5,8
+29.49,27.23,32.02,37.55,1972.69,Kulthi,Flowering / Reproductive,78,Alluvial soils,7.0,9
+10.01,27.04,16.11,25.66,265.45,Gram,Vegetative,57,Laterite soils,7.0,14
+42.5,25.5,10.02,67.62,761.82,Masoor,Vegetative,51,Black soils,6.0,11
+41.0,32.43,31.3,68.42,355.47,Soybean,Sowing / Germination,2,Red and Yellow soils,4.5,12
+17.39,26.36,36.68,28.02,829.36,Millets,Flowering / Reproductive,72,Red and Yellow soils,6.0,13
+34.24,21.83,28.86,55.97,1134.18,summer paddy,Vegetative,54,Black soils,6.5,3
+40.88,25.3,14.47,24.13,1637.69,Moong,Vegetative,55,Black soils,6.5,4
+27.63,28.0,30.48,58.85,520.65,Wheat,Flowering / Reproductive,90,Red and Yellow soils,6.5,3
+30.37,28.1,29.14,36.93,461.48,Wheat,Flowering / Reproductive,75,Red and Yellow soils,4.5,1
+9.69,23.24,13.67,60.8,1014.03,Mustard,Maturity / Harvesting,100,Black soils,6.0,11
+42.69,29.29,10.54,75.35,1514.49,Soybean,Vegetative,42,Black soils,5.5,0
+14.93,21.21,13.62,69.73,1033.12,Pea,Vegetative,46,Black soils,5.5,7
+41.24,29.93,18.25,25.98,1627.89,Jwar,Maturity / Harvesting,104,Alluvial soils,5.5,3
+18.51,22.54,20.76,74.57,377.7,Masoor,Flowering / Reproductive,77,Black soils,6.0,4
+14.04,25.82,32.9,29.25,881.68,Moong,Vegetative,18,Red and Yellow soils,6.0,5
+40.78,29.69,19.58,27.4,227.88,Niger,Sowing / Germination,9,Alluvial soils,6.5,13
+33.72,26.86,39.85,80.34,718.17,Moong,Flowering / Reproductive,66,Red and Yellow soils,5.5,7
+38.94,28.95,11.18,63.07,1511.08,Masoor,Vegetative,22,Laterite soils,5.0,10
+37.12,28.36,20.1,79.86,1750.83,Til,Flowering / Reproductive,66,Alluvial soils,6.0,7
+39.55,30.36,28.35,74.54,422.0,Mustard,Vegetative,55,Laterite soils,6.0,6
+40.72,29.69,39.33,23.52,1435.31,Masoor,Sowing / Germination,8,Laterite soils,4.5,3
+41.25,25.14,13.94,75.24,1715.64,Groundnut,Flowering / Reproductive,62,Alluvial soils,6.5,5
+18.84,28.4,18.37,72.58,1299.7,Urd,Sowing / Germination,1,Laterite soils,6.0,3
+42.95,21.92,26.62,85.67,955.4,Jwar,Vegetative,16,Black soils,6.5,14
+14.4,26.33,17.42,63.1,690.58,Masoor,Vegetative,29,Red and Yellow soils,7.0,13
+44.88,28.96,13.67,55.13,670.31,Jwar,Vegetative,43,Red and Yellow soils,6.5,6
+42.85,26.9,25.53,56.13,1548.46,Moong,Flowering / Reproductive,81,Laterite soils,6.5,11
+41.28,27.84,24.82,55.87,338.89,Jwar,Flowering / Reproductive,63,Red and Yellow soils,5.5,12
+8.89,25.86,38.41,24.49,1980.02,Masoor,Flowering / Reproductive,65,Black soils,6.0,11
+37.74,29.89,20.16,26.51,1687.96,Kulthi,Sowing / Germination,6,Alluvial soils,7.5,14
+34.71,26.26,26.9,76.4,1713.4,Til,Sowing / Germination,10,Laterite soils,5.5,12
+33.23,25.1,37.29,61.13,1891.04,Kulthi,Vegetative,25,Laterite soils,6.0,12
+11.05,29.16,10.12,55.48,1560.79,Gram,Maturity / Harvesting,120,Black soils,5.0,10
+31.6,22.28,33.06,89.66,1716.33,Moong,Flowering / Reproductive,76,Black soils,4.5,13
+10.59,28.0,21.04,23.82,964.07,Pea,Flowering / Reproductive,83,Black soils,6.0,0
+9.57,23.37,18.79,43.02,502.71,Mustard,Vegetative,42,Laterite soils,6.0,4
+16.95,30.33,24.71,52.6,782.37,Gram,Vegetative,49,Red and Yellow soils,6.0,14
+36.02,25.72,30.23,57.03,710.84,Jwar,Vegetative,45,Red and Yellow soils,6.0,13
+42.73,26.9,22.75,75.32,1002.32,Millets,Sowing / Germination,13,Alluvial soils,6.0,9
+38.69,27.74,31.87,87.5,1245.01,Wheat,Sowing / Germination,6,Alluvial soils,7.0,11
+40.58,20.71,11.0,25.14,1115.68,Millets,Maturity / Harvesting,129,Black soils,5.5,14
+13.48,24.55,31.35,68.63,487.04,Gram,Vegetative,30,Black soils,6.0,9
+42.32,29.63,19.24,87.64,1664.57,Niger,Vegetative,29,Laterite soils,5.5,14
+42.86,29.1,36.06,81.55,1508.47,Til,Sowing / Germination,11,Laterite soils,6.5,3
+38.99,27.35,16.23,85.32,1166.55,Soybean,Maturity / Harvesting,112,Alluvial soils,5.0,10
+11.54,22.45,31.85,64.32,342.71,Wheat,Vegetative,51,Laterite soils,6.5,6
+29.19,28.26,34.79,54.93,565.27,Masoor,Flowering / Reproductive,86,Black soils,5.5,12
+20.59,28.64,30.79,67.43,847.69,Mustard,Maturity / Harvesting,129,Black soils,7.0,8
+5.99,26.64,20.97,73.47,1111.91,Kulthi,Vegetative,59,Black soils,5.0,4
+40.62,30.17,12.97,51.76,1656.27,Soybean,Flowering / Reproductive,94,Laterite soils,6.5,3
+38.27,24.45,23.12,83.41,1283.86,Pea,Sowing / Germination,12,Black soils,7.0,14
+25.57,24.97,37.32,58.45,1863.1,Soybean,Sowing / Germination,7,Red and Yellow soils,5.0,8
+43.7,19.05,14.83,75.38,672.1,Maize,Flowering / Reproductive,68,Alluvial soils,7.0,4
+24.97,29.26,27.32,59.02,1445.55,Masoor,Flowering / Reproductive,71,Laterite soils,6.0,8
+38.98,27.44,26.48,20.33,405.98,Til,Vegetative,29,Red and Yellow soils,5.5,7
+41.79,21.45,10.8,66.33,489.29,Kulthi,Vegetative,35,Alluvial soils,7.0,3
+38.53,21.22,13.72,52.19,361.38,Maize,Vegetative,49,Laterite soils,5.5,10
+13.06,23.88,37.12,45.53,1295.35,Niger,Sowing / Germination,10,Laterite soils,7.5,10
+41.01,28.88,17.15,58.77,1511.62,Jwar,Vegetative,47,Alluvial soils,6.5,6
+42.32,25.6,33.13,80.9,1507.4,Til,Vegetative,33,Red and Yellow soils,6.0,4
+30.51,24.09,35.05,56.64,1005.19,Pea,Vegetative,37,Red and Yellow soils,8.0,9
+42.47,23.48,36.31,74.16,1953.17,Soybean,Flowering / Reproductive,72,Black soils,6.0,3
+38.64,23.35,24.33,85.16,1479.32,Tiwra,Vegetative,58,Laterite soils,6.0,4
+35.64,20.7,15.87,69.32,1921.36,Tiwra,Sowing / Germination,1,Black soils,6.5,4
+35.2,22.88,10.62,43.43,510.18,Til,Vegetative,43,Alluvial soils,4.5,10
+22.6,23.29,33.83,47.32,1051.53,Soybean,Maturity / Harvesting,118,Black soils,5.0,14
+30.05,28.55,20.97,74.35,428.45,Niger,Vegetative,30,Black soils,6.0,8
+29.08,26.0,38.23,65.81,1873.27,Mustard,Sowing / Germination,9,Laterite soils,5.5,11
+40.39,24.02,11.87,55.14,1215.89,Maize,Vegetative,37,Black soils,6.5,8
+5.88,33.43,30.44,62.5,1169.95,Jwar,Flowering / Reproductive,87,Laterite soils,5.0,5
+25.78,24.51,39.96,86.73,347.12,Groundnut,Vegetative,30,Red and Yellow soils,6.5,13
+27.34,30.0,35.71,79.65,326.25,Pea,Flowering / Reproductive,70,Red and Yellow soils,5.5,3
+40.18,31.36,38.61,43.7,306.67,summer paddy,Maturity / Harvesting,97,Alluvial soils,7.0,14
+27.88,21.79,12.48,55.18,297.41,Jwar,Flowering / Reproductive,74,Laterite soils,7.0,1
+40.69,26.72,10.6,63.37,995.19,Mustard,Flowering / Reproductive,60,Alluvial soils,5.0,13
+38.84,24.95,20.74,87.42,522.47,summer paddy,Vegetative,21,Black soils,6.5,2
+34.5,24.7,22.5,62.38,706.55,Tiwra,Sowing / Germination,1,Black soils,7.0,1
+15.61,28.17,33.94,80.5,812.59,Jwar,Maturity / Harvesting,126,Laterite soils,7.0,4
+32.78,24.63,25.51,43.54,1870.78,Millets,Vegetative,23,Red and Yellow soils,6.5,5
+22.75,25.01,26.58,38.94,529.03,Kulthi,Sowing / Germination,13,Laterite soils,6.0,10
+36.55,26.0,29.08,53.99,212.5,Jwar,Flowering / Reproductive,85,Laterite soils,6.0,4
+11.65,25.38,27.14,23.05,332.54,Jwar,Vegetative,37,Laterite soils,6.0,1
+41.56,22.98,24.05,35.52,725.6,Urd,Vegetative,59,Laterite soils,7.0,11
+38.47,28.89,10.97,56.7,1527.3,Wheat,Vegetative,57,Laterite soils,6.0,4
+22.71,29.65,32.55,55.94,857.55,Arhar,Vegetative,43,Alluvial soils,7.0,8
+39.23,27.53,27.54,68.72,1387.4,Urd,Flowering / Reproductive,92,Black soils,4.5,3
+17.29,25.37,39.85,23.78,397.89,Pea,Vegetative,21,Alluvial soils,6.0,11
+18.85,24.38,17.23,63.96,300.96,Groundnut,Vegetative,26,Alluvial soils,6.0,9
+14.79,24.39,19.14,26.9,1728.89,Gram,Vegetative,45,Red and Yellow soils,5.5,1
+24.72,33.57,37.72,32.32,1714.75,Gram,Flowering / Reproductive,91,Red and Yellow soils,6.5,2
+40.26,29.31,29.76,46.62,1286.8,Soybean,Flowering / Reproductive,79,Black soils,6.5,2
+30.37,23.98,20.14,82.82,503.46,Urd,Vegetative,31,Red and Yellow soils,6.5,8
+11.97,26.99,27.71,74.54,1441.3,Rice,Flowering / Reproductive,62,Red and Yellow soils,6.5,3
+20.98,25.41,11.67,77.33,294.0,Maize,Sowing / Germination,1,Black soils,6.0,14
+38.53,28.25,27.86,47.77,1062.66,Groundnut,Maturity / Harvesting,121,Red and Yellow soils,5.5,0
+27.98,28.13,19.49,74.92,1395.07,Wheat,Vegetative,54,Laterite soils,6.5,0
+15.98,29.75,13.49,35.85,1378.68,Gram,Flowering / Reproductive,92,Alluvial soils,6.0,14
+26.7,23.95,12.53,49.01,877.92,Kulthi,Sowing / Germination,4,Red and Yellow soils,4.5,6
+43.59,26.81,17.17,56.94,372.69,Millets,Vegetative,28,Black soils,7.0,6
+19.05,21.25,18.28,21.11,987.36,Niger,Vegetative,50,Red and Yellow soils,6.5,1
+10.18,22.73,36.3,23.34,1215.68,Arhar,Maturity / Harvesting,99,Black soils,6.0,8
+42.75,29.15,30.09,61.81,825.98,Soybean,Vegetative,37,Black soils,7.5,8
+16.85,23.65,32.9,50.49,898.69,Maize,Maturity / Harvesting,109,Laterite soils,5.5,4
+38.84,23.98,34.02,77.84,1287.05,Urd,Vegetative,20,Laterite soils,6.5,14
+38.28,26.48,25.71,76.7,1633.75,Gram,Vegetative,47,Black soils,6.0,14
+20.33,28.58,23.03,85.03,1453.04,Pea,Sowing / Germination,7,Laterite soils,6.5,2
+43.82,23.32,35.98,80.12,567.81,Arhar,Flowering / Reproductive,78,Laterite soils,6.0,2
+33.5,18.0,38.89,63.8,560.56,Til,Vegetative,27,Laterite soils,6.0,11
+23.45,23.89,27.0,79.28,1387.94,Millets,Maturity / Harvesting,123,Laterite soils,5.5,2
+39.36,30.12,14.74,61.09,1253.78,Kulthi,Maturity / Harvesting,100,Red and Yellow soils,6.5,5
+8.6,27.53,15.81,62.71,1008.31,Maize,Maturity / Harvesting,109,Alluvial soils,6.5,3
+27.73,30.47,33.34,47.61,1095.84,Moong,Vegetative,30,Alluvial soils,6.0,7
+38.31,23.1,20.53,89.63,454.18,Mustard,Flowering / Reproductive,83,Red and Yellow soils,4.5,14
+14.95,21.58,22.47,22.87,296.42,Millets,Flowering / Reproductive,82,Laterite soils,6.5,12
+17.9,27.89,28.77,36.92,743.64,Niger,Sowing / Germination,10,Black soils,6.5,10
+29.06,27.22,30.5,34.94,938.27,Rice,Flowering / Reproductive,76,Alluvial soils,4.5,12
+42.18,27.42,31.57,26.02,1426.18,Wheat,Sowing / Germination,1,Black soils,6.5,10
+24.97,29.3,18.8,87.17,991.17,Jwar,Vegetative,58,Red and Yellow soils,7.0,10
+40.93,27.77,36.89,84.61,1452.13,Moong,Sowing / Germination,13,Alluvial soils,7.0,4
+14.04,27.72,29.21,80.04,394.12,Rice,Sowing / Germination,14,Red and Yellow soils,6.5,0
+42.89,28.65,39.03,88.5,421.04,Rice,Vegetative,58,Laterite soils,5.5,8
+39.22,28.01,16.09,50.16,428.45,Rice,Vegetative,24,Red and Yellow soils,7.0,0
+43.89,29.07,38.62,25.89,1607.68,Til,Flowering / Reproductive,78,Laterite soils,6.0,5
+40.96,29.53,22.84,75.98,907.49,Gram,Sowing / Germination,13,Red and Yellow soils,6.0,0
+36.88,31.1,35.74,40.38,987.95,Groundnut,Vegetative,16,Laterite soils,6.5,2
+25.58,24.55,28.54,86.91,1754.21,Gram,Sowing / Germination,4,Alluvial soils,7.0,14
+9.26,27.94,34.64,44.12,323.47,Urd,Vegetative,33,Red and Yellow soils,6.0,9
+33.27,25.39,10.08,60.59,274.75,Rice,Flowering / Reproductive,66,Alluvial soils,6.0,4
+41.85,24.0,35.18,42.59,1680.92,Jwar,Vegetative,40,Black soils,7.0,14
+14.65,24.43,39.59,69.29,694.42,Rice,Flowering / Reproductive,74,Laterite soils,6.5,9
+19.11,27.98,24.71,56.87,1028.04,Soybean,Vegetative,52,Red and Yellow soils,5.5,6
+39.98,27.75,37.01,55.55,1279.19,Jwar,Flowering / Reproductive,62,Alluvial soils,6.0,13
+41.97,27.7,11.56,56.81,1414.23,Kulthi,Vegetative,52,Alluvial soils,7.0,9
+23.0,25.82,18.96,30.83,1780.47,Arhar,Vegetative,30,Alluvial soils,5.5,7
+30.35,26.51,35.65,67.16,1322.77,Jwar,Flowering / Reproductive,61,Black soils,8.0,11
+24.13,28.95,37.51,54.21,1787.58,Millets,Sowing / Germination,12,Alluvial soils,7.0,8
+31.3,22.03,26.4,49.68,702.93,Rice,Flowering / Reproductive,66,Red and Yellow soils,5.5,5
+35.01,26.57,34.47,58.02,1810.62,Jwar,Flowering / Reproductive,89,Black soils,7.0,14
+38.32,26.77,37.29,85.72,650.29,Moong,Vegetative,57,Black soils,5.5,10
+23.89,28.76,23.13,58.09,1479.56,Tiwra,Sowing / Germination,10,Alluvial soils,4.5,8
+12.2,22.45,22.19,62.33,1096.79,Masoor,Sowing / Germination,14,Alluvial soils,6.0,7
+41.06,30.99,19.56,40.11,1232.63,summer paddy,Maturity / Harvesting,101,Alluvial soils,7.0,8
+17.31,27.14,29.48,26.13,1234.74,Arhar,Flowering / Reproductive,88,Black soils,7.0,9
+21.96,27.3,14.77,66.41,450.46,Niger,Sowing / Germination,8,Alluvial soils,5.5,3
+35.7,25.3,21.84,72.2,987.39,Pea,Vegetative,53,Alluvial soils,5.5,8
+39.61,28.11,22.88,69.19,728.0,Maize,Vegetative,18,Alluvial soils,7.0,14
+21.95,26.64,38.62,42.46,853.73,Tiwra,Flowering / Reproductive,88,Alluvial soils,5.0,6
+20.61,30.13,34.84,59.74,255.3,summer paddy,Sowing / Germination,12,Red and Yellow soils,5.5,4
+38.63,22.18,27.29,78.09,692.61,Moong,Vegetative,19,Black soils,6.5,4
+20.39,27.03,30.81,74.78,743.85,Pea,Maturity / Harvesting,123,Alluvial soils,6.0,0
+38.64,27.73,27.39,61.55,1530.59,summer paddy,Sowing / Germination,14,Black soils,7.5,1
+7.35,25.94,13.67,87.52,1230.38,Soybean,Vegetative,44,Red and Yellow soils,6.0,9
+43.55,25.29,15.0,74.1,552.7,Moong,Maturity / Harvesting,123,Black soils,5.0,2
+11.17,25.41,34.16,28.58,1696.78,Groundnut,Flowering / Reproductive,85,Red and Yellow soils,5.0,13
+7.03,27.02,27.23,37.43,1171.58,Moong,Vegetative,33,Alluvial soils,7.0,13
+20.03,21.07,20.55,81.94,1530.97,Tiwra,Sowing / Germination,10,Alluvial soils,6.0,7
+12.31,29.4,35.22,56.5,460.02,Pea,Sowing / Germination,5,Alluvial soils,7.0,5
+26.13,25.06,22.52,23.82,1227.5,Moong,Vegetative,41,Black soils,6.5,11
+17.17,26.88,23.8,49.71,575.21,Masoor,Maturity / Harvesting,124,Laterite soils,6.0,9
+16.17,27.6,25.69,41.58,1906.96,Urd,Vegetative,44,Alluvial soils,6.0,10
+38.16,24.92,26.2,79.97,1740.95,summer paddy,Flowering / Reproductive,62,Red and Yellow soils,7.0,12
+39.99,26.11,11.94,54.78,730.95,Maize,Maturity / Harvesting,101,Black soils,6.0,14
+30.61,20.39,18.91,49.87,1027.6,Millets,Vegetative,23,Black soils,6.0,13
+31.17,28.7,30.11,52.63,377.7,Wheat,Sowing / Germination,5,Laterite soils,6.0,4
+29.69,29.74,30.61,80.56,1948.15,Rice,Vegetative,55,Black soils,5.0,12
+35.7,21.4,39.31,62.14,524.29,Kulthi,Maturity / Harvesting,107,Red and Yellow soils,7.0,0
+29.53,25.28,25.01,25.47,611.36,Til,Flowering / Reproductive,74,Red and Yellow soils,5.0,11
+29.23,22.81,37.39,23.65,852.12,Maize,Sowing / Germination,6,Alluvial soils,6.5,10
+36.46,25.97,12.34,56.3,1941.17,Kulthi,Flowering / Reproductive,64,Laterite soils,6.5,11
+29.83,28.45,19.41,34.76,1198.46,Urd,Vegetative,43,Black soils,6.0,8
+39.54,29.46,13.23,29.01,1010.33,Mustard,Maturity / Harvesting,129,Red and Yellow soils,6.5,2
+22.9,29.87,24.35,48.38,487.7,Tiwra,Sowing / Germination,11,Red and Yellow soils,6.5,2
+13.98,30.43,18.97,76.27,1751.35,Mustard,Vegetative,41,Laterite soils,4.5,1
+38.76,25.83,10.28,32.07,1699.44,Niger,Maturity / Harvesting,102,Red and Yellow soils,5.5,3
+44.74,23.06,34.2,54.75,1053.73,Millets,Vegetative,46,Alluvial soils,5.0,11
+43.33,26.16,38.63,54.55,479.28,Urd,Vegetative,34,Red and Yellow soils,6.5,1
+19.94,28.4,25.33,44.29,1089.82,Til,Sowing / Germination,10,Alluvial soils,6.5,12
+10.74,22.82,16.28,56.38,219.06,Millets,Vegetative,27,Laterite soils,7.0,8
+23.54,31.48,11.95,67.62,1524.25,Wheat,Vegetative,43,Alluvial soils,7.5,11
+42.3,29.19,39.21,27.45,1821.03,Millets,Maturity / Harvesting,129,Alluvial soils,7.0,9
+43.01,25.88,10.19,84.56,1596.35,Tiwra,Vegetative,22,Alluvial soils,7.0,6
+39.12,24.37,27.81,67.48,574.25,Tiwra,Vegetative,43,Laterite soils,5.5,7
+40.44,24.49,39.24,67.17,974.49,Millets,Flowering / Reproductive,90,Red and Yellow soils,8.0,2
+19.54,26.72,35.46,20.69,1454.54,Millets,Sowing / Germination,9,Alluvial soils,6.5,5
+43.95,25.81,20.01,33.9,1026.82,Soybean,Vegetative,44,Black soils,7.0,14
+42.17,29.35,31.06,70.01,1375.87,Til,Flowering / Reproductive,81,Alluvial soils,5.0,9
+32.56,25.47,16.98,77.28,438.36,Rice,Maturity / Harvesting,115,Black soils,6.5,5
+27.82,28.02,26.45,28.3,1962.24,Tiwra,Flowering / Reproductive,71,Alluvial soils,4.5,12
+39.04,26.41,21.49,82.65,582.39,Groundnut,Flowering / Reproductive,70,Black soils,5.5,0
+24.74,27.31,22.48,25.14,1851.43,Millets,Sowing / Germination,2,Red and Yellow soils,5.5,5
+36.61,25.81,15.71,61.47,1849.11,Arhar,Maturity / Harvesting,96,Laterite soils,7.0,12
+39.52,28.62,23.55,86.3,1143.32,Millets,Sowing / Germination,2,Laterite soils,6.0,13
+28.54,28.67,16.37,76.74,1754.29,Kulthi,Flowering / Reproductive,62,Laterite soils,7.0,2
+19.74,27.88,11.16,66.54,1077.78,Masoor,Vegetative,30,Red and Yellow soils,6.5,10
+20.18,28.32,26.59,40.54,1244.63,Niger,Maturity / Harvesting,98,Laterite soils,6.0,2
+43.6,23.67,37.64,57.15,1869.66,Soybean,Flowering / Reproductive,82,Red and Yellow soils,7.0,2
+18.55,27.47,22.0,70.98,1573.51,Mustard,Flowering / Reproductive,79,Red and Yellow soils,6.5,9
+34.02,30.25,32.27,20.93,726.31,Mustard,Vegetative,39,Alluvial soils,4.5,10
+32.09,27.97,21.73,30.68,737.02,summer paddy,Vegetative,44,Laterite soils,6.0,14
+31.03,23.41,35.1,68.54,1380.66,Jwar,Flowering / Reproductive,77,Red and Yellow soils,7.5,10
+34.43,26.35,32.02,28.56,564.23,Maize,Flowering / Reproductive,70,Black soils,6.0,14
+19.23,27.62,15.77,64.29,462.16,summer paddy,Sowing / Germination,13,Red and Yellow soils,7.0,9
+20.61,24.23,16.41,65.62,677.5,Tiwra,Maturity / Harvesting,111,Laterite soils,5.5,10
+41.61,22.43,31.5,53.82,990.31,Jwar,Maturity / Harvesting,120,Black soils,8.0,7
+37.45,25.55,14.73,52.6,972.75,Groundnut,Vegetative,37,Alluvial soils,5.5,12
+31.18,24.28,29.67,20.47,297.73,Tiwra,Flowering / Reproductive,79,Laterite soils,6.0,4
+12.56,26.46,24.17,82.96,1755.26,Arhar,Vegetative,59,Red and Yellow soils,6.0,3
+41.27,21.73,18.46,75.49,1893.01,Soybean,Vegetative,16,Black soils,6.5,12
+8.28,28.19,34.29,85.43,1516.23,Maize,Vegetative,38,Red and Yellow soils,5.0,8
+25.54,24.6,31.85,77.24,829.43,Moong,Vegetative,45,Alluvial soils,7.0,8
+27.41,29.49,16.85,74.39,465.22,Urd,Flowering / Reproductive,86,Red and Yellow soils,6.0,0
+15.26,25.67,15.12,51.19,1807.42,Masoor,Vegetative,16,Red and Yellow soils,5.5,1
+37.19,26.42,33.48,77.19,1795.45,Maize,Flowering / Reproductive,73,Alluvial soils,7.0,7
+12.07,25.98,10.09,45.89,296.17,Mustard,Flowering / Reproductive,63,Laterite soils,7.0,4
+39.93,24.44,27.69,38.34,1807.92,Tiwra,Flowering / Reproductive,72,Red and Yellow soils,7.0,6
+9.46,33.92,34.77,67.19,607.79,Urd,Sowing / Germination,4,Alluvial soils,5.5,0
+20.42,25.01,31.27,31.24,1541.39,Masoor,Maturity / Harvesting,129,Red and Yellow soils,6.5,11
+38.64,29.57,11.7,39.74,1999.67,summer paddy,Vegetative,58,Alluvial soils,7.0,9
+41.58,23.22,18.33,56.95,1983.55,Mustard,Vegetative,22,Black soils,5.0,11
+40.4,27.62,13.11,28.49,1928.36,Jwar,Vegetative,16,Alluvial soils,6.0,4
+27.69,27.94,26.79,48.61,536.08,summer paddy,Vegetative,20,Alluvial soils,7.0,10
+40.76,26.43,25.56,67.5,1575.21,Pea,Maturity / Harvesting,125,Alluvial soils,7.0,11
+39.45,24.79,36.88,72.37,845.56,Millets,Vegetative,24,Alluvial soils,7.0,2
+22.68,25.71,33.3,33.37,489.58,Kulthi,Flowering / Reproductive,80,Alluvial soils,6.0,9
+18.02,25.29,37.51,21.49,1199.67,Pea,Sowing / Germination,10,Black soils,6.5,11
+31.94,33.71,26.48,24.82,821.26,Soybean,Vegetative,24,Alluvial soils,6.5,11
+21.4,26.43,29.44,58.51,1136.54,Til,Maturity / Harvesting,117,Black soils,7.0,13
+24.69,28.07,15.2,38.03,1235.59,Millets,Flowering / Reproductive,62,Red and Yellow soils,6.0,1
+15.03,31.84,34.46,40.32,856.92,Jwar,Vegetative,46,Laterite soils,6.0,1
+12.13,23.87,30.05,59.58,1037.49,Maize,Vegetative,34,Laterite soils,5.5,8
+45.49,26.61,39.86,32.98,377.96,Pea,Vegetative,24,Red and Yellow soils,5.0,12
+29.38,25.69,26.86,37.83,929.35,Wheat,Vegetative,43,Red and Yellow soils,6.5,3
+29.85,26.24,19.28,29.47,394.12,Soybean,Flowering / Reproductive,93,Black soils,6.5,3
+41.74,25.96,27.35,44.0,1605.55,Groundnut,Flowering / Reproductive,79,Black soils,6.0,6
+37.17,24.3,33.08,54.9,770.35,Mustard,Vegetative,22,Red and Yellow soils,6.0,9
+40.69,27.09,22.5,31.07,1697.52,Pea,Maturity / Harvesting,101,Black soils,5.5,9
+40.78,23.31,39.92,44.3,737.74,Gram,Vegetative,20,Red and Yellow soils,8.0,12
+42.34,29.47,14.19,20.88,532.21,Masoor,Vegetative,25,Alluvial soils,8.0,1
+41.79,28.37,29.29,24.28,1263.68,Mustard,Vegetative,58,Laterite soils,6.0,2
+28.32,25.02,25.21,53.84,415.24,Groundnut,Flowering / Reproductive,77,Laterite soils,5.0,2
+39.72,25.17,12.98,42.47,1065.2,Jwar,Vegetative,56,Alluvial soils,5.0,5
+12.42,27.33,12.54,76.24,895.18,Millets,Vegetative,43,Laterite soils,7.0,2
+40.96,24.1,34.67,39.96,1086.91,Maize,Vegetative,39,Laterite soils,6.5,10
+40.78,31.94,38.51,76.22,756.73,Tiwra,Sowing / Germination,5,Black soils,6.0,4
+42.58,27.57,10.89,24.59,987.65,Moong,Flowering / Reproductive,62,Alluvial soils,7.5,3
+42.59,27.68,18.72,52.27,505.25,Pea,Vegetative,32,Red and Yellow soils,5.5,2
+9.87,28.54,23.96,39.77,1528.2,Moong,Sowing / Germination,8,Laterite soils,5.5,7
+40.21,24.76,24.72,52.26,1934.76,Tiwra,Flowering / Reproductive,69,Black soils,5.5,13
+37.66,29.77,14.91,28.36,635.16,Wheat,Maturity / Harvesting,121,Red and Yellow soils,5.5,9
+32.89,26.84,11.17,34.0,877.92,Mustard,Maturity / Harvesting,106,Black soils,6.5,2
+40.22,29.35,38.24,41.61,1407.87,Tiwra,Vegetative,21,Laterite soils,6.0,5
+20.03,25.91,21.84,60.41,909.1,Groundnut,Sowing / Germination,1,Alluvial soils,7.0,12
+33.96,30.45,25.47,71.08,817.88,Masoor,Vegetative,15,Alluvial soils,5.5,14
+41.39,27.7,11.72,86.72,1640.16,Groundnut,Sowing / Germination,10,Alluvial soils,8.0,6
+38.28,33.05,23.73,69.27,1337.39,Groundnut,Maturity / Harvesting,120,Red and Yellow soils,7.0,6
+40.96,25.39,24.23,68.72,1370.11,Til,Sowing / Germination,3,Black soils,8.5,1
+43.07,27.11,15.1,49.45,1490.11,Pea,Vegetative,47,Red and Yellow soils,4.5,13
+34.73,23.41,31.45,31.29,361.63,Maize,Vegetative,51,Black soils,6.0,2
+11.57,24.91,28.36,77.79,1065.18,Gram,Vegetative,45,Laterite soils,8.5,11
+29.03,28.36,10.78,84.88,1067.85,Urd,Flowering / Reproductive,94,Red and Yellow soils,7.0,9
+38.89,29.89,13.3,47.73,805.28,Niger,Vegetative,15,Red and Yellow soils,6.5,9
+19.05,35.4,14.52,32.0,215.05,Urd,Sowing / Germination,8,Laterite soils,6.0,14
+40.21,26.21,19.55,22.08,822.61,Soybean,Vegetative,26,Black soils,7.5,3
+33.4,23.7,35.2,55.59,1712.89,Millets,Vegetative,33,Alluvial soils,6.0,6
+20.25,28.76,24.43,34.98,726.52,Niger,Sowing / Germination,9,Red and Yellow soils,6.0,1
+26.35,23.12,39.57,56.94,1942.69,Millets,Flowering / Reproductive,91,Black soils,6.5,2
+14.06,28.19,12.83,59.43,529.26,Soybean,Vegetative,26,Alluvial soils,5.5,6
+16.91,24.99,22.89,83.99,1086.45,Gram,Flowering / Reproductive,72,Laterite soils,5.0,6
+42.84,27.13,10.91,84.86,1552.53,Tiwra,Maturity / Harvesting,122,Alluvial soils,4.5,14
+20.09,29.77,33.45,89.06,1317.18,Wheat,Maturity / Harvesting,95,Red and Yellow soils,7.0,9
+40.25,26.17,10.07,60.06,1134.18,Rice,Maturity / Harvesting,100,Red and Yellow soils,7.0,2
+44.79,29.3,16.6,29.41,1082.59,Groundnut,Vegetative,22,Black soils,6.0,11
+43.72,29.12,23.55,82.86,1986.19,Millets,Sowing / Germination,4,Black soils,7.5,0
+42.17,20.91,32.11,78.98,498.92,Til,Vegetative,19,Laterite soils,6.0,11
+27.32,23.8,18.26,79.52,1913.49,Jwar,Maturity / Harvesting,119,Black soils,6.5,2
+14.77,21.81,26.69,61.9,1129.18,Kulthi,Maturity / Harvesting,116,Laterite soils,7.0,4
+40.29,32.51,26.34,55.81,878.36,Mustard,Maturity / Harvesting,122,Alluvial soils,5.0,6
+13.12,26.18,34.24,85.48,1822.31,Soybean,Sowing / Germination,7,Laterite soils,7.0,3
+18.11,31.84,11.8,23.16,1667.2,Niger,Maturity / Harvesting,117,Alluvial soils,4.5,12
+32.68,21.6,36.54,75.0,832.59,Groundnut,Vegetative,18,Red and Yellow soils,5.5,12
+44.28,24.78,15.9,59.74,727.4,Pea,Sowing / Germination,4,Black soils,6.5,10
+19.66,28.9,33.04,48.94,1743.65,Masoor,Vegetative,18,Laterite soils,6.0,10
+28.44,27.04,39.28,79.86,1091.19,Tiwra,Sowing / Germination,14,Red and Yellow soils,7.5,14
+16.2,28.1,22.74,50.16,1015.57,Kulthi,Vegetative,35,Red and Yellow soils,6.5,0
+14.97,22.74,21.04,33.97,1093.06,Wheat,Vegetative,51,Black soils,7.0,5
+18.95,30.63,24.05,68.71,367.28,Mustard,Vegetative,55,Red and Yellow soils,4.5,1
+11.18,28.83,19.08,63.91,1887.63,Gram,Flowering / Reproductive,61,Laterite soils,7.0,11
+38.84,27.7,34.1,33.71,1478.63,Moong,Maturity / Harvesting,101,Black soils,6.0,2
+32.36,24.44,39.9,86.64,1502.25,Rice,Flowering / Reproductive,75,Alluvial soils,7.0,3
+10.0,27.47,13.37,63.49,918.63,Kulthi,Vegetative,31,Alluvial soils,7.0,5
+31.07,25.63,25.17,34.47,1235.59,Gram,Flowering / Reproductive,79,Alluvial soils,6.5,5
+42.11,21.55,21.94,35.37,1165.61,Tiwra,Maturity / Harvesting,117,Laterite soils,5.0,6
+34.08,26.35,10.16,53.09,1694.55,Jwar,Sowing / Germination,2,Alluvial soils,4.5,4
+39.02,26.03,35.49,62.07,770.51,Moong,Vegetative,25,Red and Yellow soils,7.0,6
+15.36,29.69,32.67,39.37,421.5,Kulthi,Vegetative,48,Black soils,5.5,1
+30.37,19.8,28.02,82.3,1685.6,Soybean,Sowing / Germination,1,Red and Yellow soils,5.5,0
+37.68,27.21,15.34,75.95,392.17,Moong,Flowering / Reproductive,85,Alluvial soils,6.0,11
+12.29,23.03,24.54,64.95,550.57,Arhar,Maturity / Harvesting,96,Alluvial soils,5.5,9
+42.84,27.46,30.36,84.35,1876.26,Jwar,Sowing / Germination,13,Black soils,5.0,7
+22.57,27.62,23.11,42.94,1652.9,Soybean,Flowering / Reproductive,82,Alluvial soils,6.0,0
+17.82,26.24,21.46,69.57,1960.29,Til,Maturity / Harvesting,116,Red and Yellow soils,5.5,11
+19.81,28.92,10.6,44.23,1134.06,Kulthi,Maturity / Harvesting,128,Alluvial soils,6.5,1
+30.36,22.76,31.63,47.15,1686.6,Jwar,Vegetative,29,Red and Yellow soils,5.0,10
+44.1,29.82,26.68,56.45,1061.96,Wheat,Maturity / Harvesting,104,Red and Yellow soils,5.0,11
+42.88,24.38,20.75,85.35,1434.09,Urd,Vegetative,29,Alluvial soils,6.5,9
+17.09,21.83,21.68,36.23,1526.03,Millets,Vegetative,56,Alluvial soils,8.0,5
+20.4,25.68,21.12,68.35,945.14,Tiwra,Sowing / Germination,13,Red and Yellow soils,6.0,0
+41.63,20.21,37.87,56.27,1708.2,Niger,Sowing / Germination,9,Red and Yellow soils,5.5,9
+43.65,27.26,24.97,26.17,506.16,Urd,Flowering / Reproductive,82,Red and Yellow soils,5.0,2
+35.3,25.72,29.22,34.56,685.72,Rice,Vegetative,31,Laterite soils,6.5,6
+36.03,30.2,29.29,31.15,831.37,Soybean,Vegetative,23,Alluvial soils,7.5,11
+34.3,28.45,14.86,66.14,803.08,Millets,Sowing / Germination,2,Alluvial soils,7.0,7
+14.92,22.32,28.63,82.16,814.58,Maize,Flowering / Reproductive,68,Alluvial soils,6.0,3
+15.4,23.98,32.38,35.45,737.49,summer paddy,Sowing / Germination,4,Alluvial soils,5.5,11
+29.03,28.06,21.41,61.22,1307.5,Niger,Flowering / Reproductive,92,Black soils,6.0,2
+12.79,29.04,26.65,30.16,367.16,Millets,Sowing / Germination,7,Black soils,5.5,0
+24.2,30.17,18.4,42.78,842.94,Mustard,Sowing / Germination,6,Black soils,7.0,11
+12.81,30.14,39.78,31.89,904.29,summer paddy,Vegetative,24,Alluvial soils,7.5,8
+24.98,26.23,19.09,60.6,1750.71,Gram,Vegetative,30,Alluvial soils,6.5,9
+25.13,27.59,23.42,66.65,1667.2,Soybean,Vegetative,18,Alluvial soils,6.0,5
+21.4,30.4,17.31,53.14,1584.29,Soybean,Vegetative,36,Alluvial soils,7.0,5
+38.79,25.59,20.98,55.83,1504.22,Niger,Maturity / Harvesting,107,Laterite soils,6.0,8
+28.99,27.64,36.6,87.68,591.38,Soybean,Flowering / Reproductive,75,Laterite soils,6.0,0
+30.29,25.52,14.8,23.29,1349.34,Arhar,Sowing / Germination,4,Laterite soils,6.0,5
+43.48,24.85,19.76,66.4,257.29,Mustard,Vegetative,43,Alluvial soils,6.5,11
+23.82,26.65,27.34,49.98,706.55,Urd,Maturity / Harvesting,100,Alluvial soils,5.0,4
+12.22,24.44,11.68,49.52,1044.83,Niger,Vegetative,40,Red and Yellow soils,6.5,12
+16.31,26.11,27.53,53.83,1978.24,Masoor,Sowing / Germination,11,Alluvial soils,6.0,10
+32.27,23.4,21.04,24.21,380.49,Millets,Flowering / Reproductive,83,Laterite soils,5.5,14
+32.04,25.93,28.55,46.48,291.79,Moong,Flowering / Reproductive,88,Alluvial soils,6.5,5
+42.1,27.85,13.04,49.87,1831.1,Rice,Vegetative,17,Laterite soils,6.5,13
+31.62,24.73,26.38,75.15,809.45,Jwar,Sowing / Germination,4,Red and Yellow soils,6.5,10
+17.4,26.53,36.58,44.55,611.17,summer paddy,Sowing / Germination,10,Alluvial soils,7.0,7
+40.73,26.92,31.83,47.29,697.73,Urd,Flowering / Reproductive,60,Red and Yellow soils,7.0,4
+42.74,27.86,10.18,73.05,252.24,Soybean,Vegetative,57,Laterite soils,6.5,1
+18.23,26.1,27.54,85.59,867.13,Til,Vegetative,40,Laterite soils,6.5,11
+39.69,29.76,10.11,24.8,1042.58,Kulthi,Vegetative,26,Alluvial soils,7.0,11
+40.5,20.2,24.05,62.17,727.68,Gram,Vegetative,28,Laterite soils,4.5,1
+33.96,35.31,15.68,52.29,1189.93,Niger,Maturity / Harvesting,119,Laterite soils,7.0,9
+22.83,23.89,30.48,31.83,1378.11,Moong,Flowering / Reproductive,67,Alluvial soils,5.0,4
+13.33,27.71,33.47,62.38,1253.44,Wheat,Flowering / Reproductive,63,Laterite soils,7.0,2
+21.54,23.68,15.81,26.2,420.65,Til,Sowing / Germination,12,Laterite soils,6.0,9
+36.79,28.43,13.69,89.7,975.86,Maize,Sowing / Germination,7,Black soils,6.5,2
+7.03,27.33,39.99,74.28,1023.28,Jwar,Vegetative,24,Black soils,6.0,7
+40.62,24.55,13.14,64.28,219.97,Moong,Sowing / Germination,3,Alluvial soils,6.5,6
+19.79,29.72,28.83,26.55,799.15,Moong,Maturity / Harvesting,96,Black soils,7.5,0
+7.24,26.01,21.54,88.19,240.85,Urd,Sowing / Germination,10,Red and Yellow soils,7.0,11
+41.45,28.14,30.04,79.73,949.03,Urd,Vegetative,28,Alluvial soils,5.0,12
+44.16,23.75,14.06,46.45,927.55,Rice,Vegetative,30,Red and Yellow soils,5.0,11
+8.31,26.41,17.28,84.36,998.91,Rice,Flowering / Reproductive,76,Black soils,4.5,4
+24.5,32.51,17.99,30.87,750.85,Urd,Sowing / Germination,14,Laterite soils,6.5,8
+31.84,29.39,29.46,45.18,1444.77,Jwar,Vegetative,36,Red and Yellow soils,6.0,3
+41.45,27.42,27.23,84.83,968.38,Pea,Vegetative,18,Alluvial soils,7.0,0
+16.46,25.15,34.77,22.25,1924.76,Wheat,Maturity / Harvesting,113,Red and Yellow soils,5.5,7
+40.25,26.7,36.14,23.34,688.12,Arhar,Sowing / Germination,2,Alluvial soils,7.0,4
+9.84,27.09,14.18,37.51,635.37,Urd,Maturity / Harvesting,103,Black soils,6.0,1
+36.37,27.85,37.12,56.24,1002.49,Moong,Flowering / Reproductive,78,Laterite soils,8.0,14
+20.52,23.27,13.37,20.26,933.75,Gram,Vegetative,30,Alluvial soils,8.0,11
+27.05,28.51,37.52,22.4,1195.74,Soybean,Flowering / Reproductive,84,Red and Yellow soils,5.5,0
+42.05,23.23,10.6,44.62,967.29,Maize,Sowing / Germination,2,Red and Yellow soils,7.0,13
+11.94,31.39,17.94,37.62,1552.95,Millets,Maturity / Harvesting,117,Alluvial soils,6.5,11
+10.47,24.19,12.91,68.88,929.79,Gram,Vegetative,35,Black soils,5.0,11
+19.88,27.39,20.17,40.83,474.87,Maize,Vegetative,25,Laterite soils,6.5,11
+22.84,29.52,11.06,50.81,1516.96,Groundnut,Vegetative,53,Red and Yellow soils,6.5,2
+23.84,25.74,38.41,67.62,1624.85,Til,Sowing / Germination,9,Alluvial soils,5.5,8
+41.42,27.52,13.61,28.16,1821.85,Rice,Maturity / Harvesting,98,Black soils,5.0,0
+24.74,30.81,23.72,69.5,1272.02,Til,Sowing / Germination,9,Laterite soils,5.0,3
+18.01,28.19,26.72,36.44,719.49,Kulthi,Flowering / Reproductive,91,Black soils,6.0,7
+39.63,27.57,11.49,87.59,419.08,Kulthi,Vegetative,44,Red and Yellow soils,4.5,7
+40.52,21.45,30.12,34.34,578.78,Soybean,Maturity / Harvesting,120,Black soils,5.5,9
+21.28,23.7,19.74,49.23,572.93,Gram,Vegetative,50,Laterite soils,6.5,11
+12.92,29.64,17.06,76.32,922.31,Wheat,Vegetative,48,Laterite soils,6.5,10
+13.98,28.21,35.76,33.18,1952.5,Millets,Vegetative,23,Red and Yellow soils,6.0,12
+41.95,28.66,36.9,42.59,212.5,Niger,Flowering / Reproductive,71,Laterite soils,5.5,10
+8.44,28.41,15.3,47.78,708.32,Urd,Sowing / Germination,2,Laterite soils,5.5,7
+42.86,30.37,11.55,56.55,603.94,Niger,Sowing / Germination,6,Black soils,6.5,9
+42.9,25.72,16.04,38.29,889.13,Gram,Vegetative,19,Laterite soils,6.5,7
+42.09,26.86,24.52,54.75,1119.11,Rice,Flowering / Reproductive,64,Red and Yellow soils,6.0,3
+12.76,23.41,18.83,72.34,854.41,Gram,Sowing / Germination,4,Alluvial soils,7.0,7
+19.42,22.67,17.87,31.78,1549.4,Wheat,Vegetative,36,Black soils,5.5,8
+23.67,21.57,20.52,79.53,597.86,Arhar,Vegetative,19,Red and Yellow soils,7.0,6
+22.37,23.84,18.55,75.95,1611.03,summer paddy,Maturity / Harvesting,98,Black soils,5.0,13
+42.87,31.16,35.55,83.25,1870.78,Mustard,Maturity / Harvesting,103,Alluvial soils,4.5,11
+33.61,21.84,22.61,39.49,1859.07,Millets,Vegetative,43,Alluvial soils,4.5,1
+9.83,25.59,34.55,23.63,865.94,summer paddy,Vegetative,36,Red and Yellow soils,6.5,8
+30.04,22.62,39.96,64.23,828.17,Rice,Vegetative,41,Laterite soils,6.5,10
+12.96,24.7,36.85,35.31,819.19,Arhar,Sowing / Germination,10,Black soils,7.0,7
+9.23,27.01,14.32,46.34,1271.14,Kulthi,Vegetative,30,Laterite soils,6.5,12
+41.7,24.4,15.45,88.43,1511.08,Kulthi,Flowering / Reproductive,69,Laterite soils,5.5,4
+22.71,29.77,13.99,21.75,974.49,Groundnut,Vegetative,20,Alluvial soils,6.5,14
+12.14,31.1,11.08,34.14,596.04,Arhar,Maturity / Harvesting,99,Black soils,7.0,11
+23.62,19.75,12.63,40.88,1932.23,Kulthi,Vegetative,20,Laterite soils,5.5,2
+42.13,24.45,17.08,30.35,1881.29,Soybean,Flowering / Reproductive,84,Red and Yellow soils,5.0,6
+28.01,26.68,29.36,31.5,544.97,Rice,Vegetative,18,Laterite soils,5.0,13
+28.15,29.88,28.08,28.87,1526.42,Groundnut,Vegetative,54,Alluvial soils,7.0,13
+23.54,25.14,25.56,77.47,255.61,Urd,Vegetative,46,Alluvial soils,7.0,14
+14.02,26.44,22.85,24.36,1665.32,Maize,Vegetative,49,Laterite soils,4.5,1
+35.15,23.03,24.23,76.59,281.64,Jwar,Vegetative,24,Red and Yellow soils,4.5,12
+23.8,21.9,27.76,56.94,1790.45,Kulthi,Flowering / Reproductive,93,Laterite soils,5.5,2
+9.63,30.84,13.28,64.25,1605.55,Rice,Maturity / Harvesting,100,Black soils,5.5,11
+42.31,21.03,21.62,59.0,494.83,Wheat,Vegetative,57,Alluvial soils,6.5,8
+35.24,33.49,12.32,26.59,1099.06,Niger,Sowing / Germination,14,Alluvial soils,6.0,3
+26.42,28.68,14.26,22.51,697.73,Kulthi,Vegetative,30,Red and Yellow soils,6.0,3
+31.07,28.54,15.02,52.63,423.52,Pea,Vegetative,33,Alluvial soils,5.5,2
+33.39,28.23,10.13,45.23,329.43,Gram,Sowing / Germination,2,Red and Yellow soils,5.5,4
+40.5,25.74,36.88,54.89,1760.36,Jwar,Flowering / Reproductive,84,Laterite soils,5.5,2
+23.83,27.68,30.9,37.99,805.36,Niger,Maturity / Harvesting,125,Red and Yellow soils,6.0,8
+18.55,25.93,15.11,52.55,1775.03,Masoor,Maturity / Harvesting,111,Black soils,6.5,14
+19.92,28.16,14.56,40.45,984.22,Soybean,Sowing / Germination,14,Black soils,5.0,2
+39.98,26.4,11.09,69.71,1696.96,Wheat,Maturity / Harvesting,125,Alluvial soils,7.0,1
+14.7,23.65,33.88,32.32,635.25,Pea,Flowering / Reproductive,78,Laterite soils,6.0,11
+18.31,23.89,21.27,37.46,1368.44,Niger,Vegetative,49,Laterite soils,6.5,4
+16.87,23.55,28.32,22.17,521.47,Niger,Vegetative,43,Alluvial soils,6.0,5
+38.45,29.41,37.41,39.85,1403.3,Wheat,Flowering / Reproductive,60,Laterite soils,7.5,0
+13.15,24.65,17.98,61.65,1693.24,summer paddy,Vegetative,18,Red and Yellow soils,7.0,13
+42.19,20.76,14.03,24.41,1551.96,Wheat,Vegetative,42,Alluvial soils,5.5,11
+21.4,27.69,10.83,27.08,1751.06,Wheat,Vegetative,32,Red and Yellow soils,7.0,10
+39.73,31.04,21.36,85.16,796.71,Tiwra,Vegetative,40,Alluvial soils,8.0,5
+34.79,28.82,15.48,74.41,1114.36,Soybean,Sowing / Germination,8,Laterite soils,6.0,9
+42.84,24.69,12.32,41.11,695.2,Urd,Maturity / Harvesting,113,Alluvial soils,5.5,2
+14.27,21.74,13.72,26.04,896.18,Til,Flowering / Reproductive,65,Red and Yellow soils,8.0,3
+44.8,26.1,27.38,30.31,978.46,Niger,Flowering / Reproductive,60,Red and Yellow soils,6.5,5
+42.81,26.02,39.23,70.04,1334.31,Til,Sowing / Germination,8,Black soils,6.0,7
+42.44,23.59,21.01,78.35,1739.64,Moong,Flowering / Reproductive,92,Red and Yellow soils,5.0,14
+41.7,28.15,15.32,71.48,1262.74,Masoor,Sowing / Germination,3,Laterite soils,6.0,8
+31.31,32.04,27.59,28.72,1746.13,Rice,Sowing / Germination,11,Red and Yellow soils,7.0,5
+34.71,27.17,10.35,45.94,1968.07,Gram,Vegetative,35,Alluvial soils,4.5,6
+41.08,26.98,14.42,60.96,1793.36,Arhar,Vegetative,38,Alluvial soils,5.0,14
+17.92,23.69,21.4,53.07,1738.61,Niger,Vegetative,39,Alluvial soils,7.5,13
+40.39,30.69,30.05,57.52,221.98,Tiwra,Sowing / Germination,7,Black soils,7.0,4
+44.1,26.27,15.98,48.63,286.89,Masoor,Vegetative,57,Black soils,7.0,13
+35.23,24.76,33.89,87.88,1227.31,Maize,Sowing / Germination,3,Alluvial soils,7.0,11
+28.51,26.69,36.73,65.55,262.52,Urd,Maturity / Harvesting,123,Red and Yellow soils,7.0,14
+18.51,27.92,31.48,20.47,1379.54,Wheat,Vegetative,24,Alluvial soils,6.5,8
+12.76,26.92,33.95,89.73,832.28,Arhar,Flowering / Reproductive,71,Laterite soils,7.0,3
+43.46,30.12,27.01,26.63,1445.52,Moong,Vegetative,47,Red and Yellow soils,7.0,9
+27.91,27.65,29.79,84.56,1467.67,Groundnut,Sowing / Germination,8,Alluvial soils,6.5,10
+22.13,25.65,36.37,44.06,1406.15,Groundnut,Maturity / Harvesting,101,Alluvial soils,6.0,5
+37.24,27.7,19.97,35.1,1037.49,Tiwra,Vegetative,31,Alluvial soils,8.5,4
+40.49,28.0,32.98,54.91,330.05,Masoor,Vegetative,24,Red and Yellow soils,6.0,0
+15.69,22.61,30.46,79.54,276.98,Wheat,Flowering / Reproductive,90,Alluvial soils,7.0,4
+15.78,29.95,20.52,33.19,1178.3,Niger,Sowing / Germination,12,Alluvial soils,6.5,12
+21.8,25.6,16.25,46.91,555.13,Til,Flowering / Reproductive,65,Black soils,6.5,4
+39.2,25.67,12.87,62.16,1143.2,Rice,Vegetative,31,Laterite soils,6.5,13
+19.57,28.75,37.16,57.04,1525.51,Soybean,Vegetative,51,Alluvial soils,5.0,8
+42.05,28.74,19.41,26.65,873.17,Urd,Sowing / Germination,2,Black soils,7.0,0
+40.85,24.4,13.82,23.05,811.64,Urd,Sowing / Germination,14,Red and Yellow soils,6.5,14
+40.72,28.91,17.94,31.36,1150.59,summer paddy,Maturity / Harvesting,120,Alluvial soils,6.0,4
+25.07,24.82,27.86,75.24,627.44,Arhar,Flowering / Reproductive,75,Red and Yellow soils,6.0,14
+14.04,31.96,37.31,66.3,1784.89,Tiwra,Vegetative,22,Red and Yellow soils,5.5,6
+35.23,24.02,15.46,50.67,1857.85,Groundnut,Sowing / Germination,8,Laterite soils,7.0,10
+18.19,27.22,23.78,25.46,474.3,Jwar,Flowering / Reproductive,72,Laterite soils,7.0,5
+17.65,24.15,19.33,48.03,724.83,summer paddy,Vegetative,43,Red and Yellow soils,5.5,5
+17.49,33.17,30.62,42.18,1444.02,Mustard,Vegetative,46,Laterite soils,6.0,11
+39.72,22.79,12.82,76.73,586.32,Millets,Vegetative,38,Red and Yellow soils,6.0,6
+7.58,28.07,26.68,56.45,566.33,Moong,Vegetative,30,Laterite soils,4.5,5
+24.39,24.3,17.89,26.67,308.72,Mustard,Flowering / Reproductive,70,Black soils,6.5,4
+10.23,25.44,29.47,34.49,329.82,Tiwra,Maturity / Harvesting,126,Alluvial soils,6.0,9
+41.03,27.86,20.28,64.03,1021.64,Mustard,Sowing / Germination,6,Alluvial soils,6.0,4
+25.33,30.17,18.28,84.05,797.99,Mustard,Vegetative,49,Laterite soils,7.0,8
+40.42,31.37,19.58,87.75,1175.42,Urd,Vegetative,47,Black soils,7.0,13
+28.46,21.89,10.11,87.83,1299.6,Niger,Vegetative,32,Alluvial soils,5.5,7
+4.71,27.3,15.36,57.6,1812.21,Jwar,Vegetative,51,Red and Yellow soils,7.0,13
+35.91,30.88,39.48,46.55,1256.98,Moong,Flowering / Reproductive,72,Black soils,6.0,11
+34.28,21.44,29.96,62.83,1637.55,Groundnut,Vegetative,24,Black soils,5.5,14
+17.58,27.44,34.78,61.71,1525.26,Jwar,Vegetative,51,Laterite soils,6.5,9
+20.9,26.49,23.18,45.37,1620.82,Rice,Vegetative,40,Laterite soils,5.0,13
+24.2,27.74,12.62,80.77,1375.53,Gram,Sowing / Germination,14,Black soils,5.5,3
+43.07,24.18,13.02,61.18,285.97,Pea,Sowing / Germination,1,Laterite soils,7.0,3
+42.82,22.19,12.51,67.43,1454.49,Rice,Flowering / Reproductive,60,Red and Yellow soils,6.0,9
+20.59,20.76,13.3,39.59,1149.42,Millets,Sowing / Germination,9,Laterite soils,6.0,4
+42.23,29.43,15.81,52.08,1598.24,Soybean,Flowering / Reproductive,93,Alluvial soils,7.0,12
+40.4,29.81,30.47,27.96,222.32,Groundnut,Vegetative,53,Black soils,5.0,12
+30.0,27.41,36.13,24.28,1996.05,Til,Vegetative,24,Black soils,5.5,2
+14.09,24.9,20.5,78.25,558.48,Masoor,Vegetative,34,Alluvial soils,4.5,14
+44.45,21.63,20.01,35.51,587.44,Rice,Vegetative,21,Red and Yellow soils,6.5,7
+28.2,28.19,35.0,75.95,1131.95,Masoor,Sowing / Germination,8,Black soils,7.0,6
+26.05,23.2,10.22,73.05,469.87,Gram,Vegetative,30,Laterite soils,7.0,4
+9.35,24.37,33.88,63.5,1027.68,Kulthi,Flowering / Reproductive,88,Laterite soils,6.5,9
+9.16,24.74,32.74,23.81,718.04,Mustard,Flowering / Reproductive,71,Red and Yellow soils,7.0,2
+41.96,25.91,26.35,56.58,1788.94,Pea,Vegetative,31,Black soils,5.5,14
+21.49,24.22,19.7,78.38,578.67,Wheat,Vegetative,34,Alluvial soils,5.5,4
+13.6,26.6,12.27,56.7,218.39,Masoor,Sowing / Germination,10,Black soils,6.5,2
+19.88,24.63,12.62,53.0,319.12,Soybean,Vegetative,33,Black soils,5.5,9
+18.24,28.6,14.48,88.03,1766.08,Urd,Sowing / Germination,10,Black soils,6.5,4
+36.1,29.59,12.0,81.78,827.27,Til,Maturity / Harvesting,106,Laterite soils,8.0,0
+41.98,26.83,37.12,87.99,474.87,Rice,Vegetative,35,Red and Yellow soils,4.5,5
+42.7,27.89,21.5,46.57,951.58,Kulthi,Vegetative,56,Black soils,6.5,9
+41.45,32.85,34.93,79.96,311.31,Kulthi,Vegetative,48,Black soils,7.0,3
+39.77,22.98,30.18,33.37,1968.27,Masoor,Sowing / Germination,7,Red and Yellow soils,7.0,3
+35.42,22.8,20.26,86.17,730.36,Til,Flowering / Reproductive,94,Black soils,8.0,7
+7.96,28.58,36.47,43.5,696.66,Kulthi,Sowing / Germination,1,Black soils,5.5,1
+15.73,32.34,26.74,82.86,1890.72,summer paddy,Sowing / Germination,10,Red and Yellow soils,7.0,3
+41.83,25.72,37.44,42.47,1266.7,Moong,Flowering / Reproductive,94,Alluvial soils,5.5,14
+40.43,31.68,26.03,87.16,699.74,Pea,Vegetative,39,Alluvial soils,5.5,1
+35.47,26.79,23.43,74.51,679.51,Arhar,Flowering / Reproductive,74,Alluvial soils,6.5,0
+39.77,24.46,30.64,55.2,796.05,Jwar,Vegetative,36,Laterite soils,7.0,9
+15.94,23.53,36.17,57.56,1715.44,Groundnut,Vegetative,20,Laterite soils,7.5,12
+34.71,28.39,18.88,67.32,797.82,Niger,Flowering / Reproductive,74,Alluvial soils,6.0,12
+13.01,23.76,16.65,55.0,647.63,Arhar,Sowing / Germination,8,Laterite soils,6.0,2
+10.87,26.74,19.98,57.13,913.37,Kulthi,Vegetative,35,Black soils,5.5,11
+38.88,31.25,33.74,38.03,1352.26,Gram,Vegetative,21,Alluvial soils,7.5,7
+40.3,25.58,37.05,59.94,205.27,Til,Vegetative,43,Laterite soils,6.5,5
+40.47,30.44,12.03,55.54,1089.3,Soybean,Flowering / Reproductive,91,Alluvial soils,6.5,11
+31.31,22.86,10.11,30.0,241.65,Niger,Maturity / Harvesting,126,Laterite soils,7.0,6
+30.72,24.9,25.66,59.39,1089.67,Soybean,Maturity / Harvesting,99,Alluvial soils,7.5,1
+39.38,22.28,25.03,42.11,816.32,Wheat,Flowering / Reproductive,63,Red and Yellow soils,7.0,5
+32.38,26.72,37.87,72.16,1637.07,Soybean,Vegetative,36,Alluvial soils,6.0,13
+15.26,28.84,28.36,38.36,1185.68,Niger,Vegetative,32,Red and Yellow soils,6.5,7
+30.88,26.73,21.84,26.32,1771.0,Mustard,Vegetative,49,Laterite soils,5.0,7
+40.16,30.18,11.63,64.1,1822.31,Tiwra,Vegetative,31,Alluvial soils,6.5,3
+38.68,24.25,25.4,38.08,1613.46,Urd,Vegetative,38,Red and Yellow soils,6.5,5
+40.79,27.18,15.06,28.36,1796.88,Moong,Maturity / Harvesting,96,Black soils,6.5,13
+14.95,24.92,17.79,37.7,625.83,Kulthi,Vegetative,27,Alluvial soils,7.0,4
+19.13,27.59,37.74,73.77,534.85,Maize,Vegetative,29,Black soils,6.5,8
+13.12,28.01,35.39,50.69,663.84,Kulthi,Vegetative,19,Alluvial soils,6.5,7
+39.72,28.25,32.0,70.37,672.49,Jwar,Flowering / Reproductive,62,Red and Yellow soils,7.5,1
+28.51,23.29,28.74,47.93,584.81,Mustard,Flowering / Reproductive,62,Red and Yellow soils,6.0,11
+13.4,23.83,15.51,46.18,1962.02,Kulthi,Flowering / Reproductive,94,Black soils,7.0,12
+39.07,24.39,38.61,37.34,1897.56,Niger,Vegetative,37,Alluvial soils,6.5,6
+42.47,25.78,18.83,62.38,1067.27,Millets,Flowering / Reproductive,87,Red and Yellow soils,6.0,6
+41.28,26.76,31.72,62.9,1157.64,Pea,Sowing / Germination,12,Alluvial soils,6.5,10
+40.26,28.62,20.94,27.99,1526.38,Groundnut,Maturity / Harvesting,124,Laterite soils,6.5,13
+39.51,23.96,39.54,20.87,1964.17,Gram,Vegetative,32,Laterite soils,6.5,13
+10.35,21.7,37.94,24.41,1722.7,Millets,Vegetative,50,Black soils,5.0,11
+44.44,32.97,37.86,63.97,671.42,Niger,Vegetative,47,Laterite soils,7.0,0
+26.26,23.11,16.44,21.16,1383.52,Groundnut,Flowering / Reproductive,85,Black soils,6.5,0
+23.08,29.01,11.43,48.32,1833.53,Pea,Sowing / Germination,8,Alluvial soils,5.5,11
+34.86,26.59,31.47,76.7,353.82,Niger,Maturity / Harvesting,111,Alluvial soils,7.0,3
+42.98,27.25,32.71,28.06,431.17,summer paddy,Vegetative,54,Red and Yellow soils,6.0,4
+23.84,26.5,35.55,89.18,1393.37,Millets,Vegetative,21,Alluvial soils,5.5,14
+38.84,25.35,30.96,27.94,1896.14,summer paddy,Sowing / Germination,9,Red and Yellow soils,6.0,3
+19.05,27.89,11.31,20.71,641.63,Kulthi,Vegetative,22,Red and Yellow soils,6.0,6
+40.96,25.18,30.27,62.01,1347.36,Masoor,Vegetative,45,Black soils,6.0,2
+37.87,30.0,36.26,70.4,703.67,Pea,Vegetative,26,Laterite soils,7.5,6
+24.42,28.21,22.66,49.71,1540.04,Jwar,Flowering / Reproductive,90,Alluvial soils,5.5,12
+34.86,28.3,14.83,82.42,1856.9,Wheat,Vegetative,58,Alluvial soils,4.5,7
+19.08,24.98,24.43,40.73,395.2,Maize,Maturity / Harvesting,113,Laterite soils,7.0,5
+28.54,25.79,35.72,21.36,1271.21,Rice,Vegetative,24,Laterite soils,8.0,5
+32.3,22.94,30.58,43.02,1980.15,Tiwra,Flowering / Reproductive,71,Black soils,6.0,7
+33.84,25.44,39.28,37.8,1973.09,summer paddy,Sowing / Germination,4,Black soils,7.0,7
+16.02,23.39,18.85,79.52,1322.29,Masoor,Vegetative,51,Red and Yellow soils,4.5,6
+21.96,30.44,19.41,55.11,845.33,Kulthi,Vegetative,55,Laterite soils,6.0,5
+36.62,26.65,12.38,27.27,1661.45,Soybean,Vegetative,21,Red and Yellow soils,5.5,5
+19.29,27.01,39.8,68.4,1831.1,Tiwra,Maturity / Harvesting,108,Black soils,6.5,9
+35.33,25.82,15.16,78.17,1061.53,Kulthi,Sowing / Germination,11,Alluvial soils,8.0,10
+33.64,27.09,19.71,83.64,1108.81,Til,Sowing / Germination,7,Red and Yellow soils,6.5,12
+39.85,33.89,17.28,39.56,1420.71,Jwar,Maturity / Harvesting,123,Red and Yellow soils,6.0,12
+41.12,25.6,24.63,37.07,210.87,Pea,Vegetative,24,Black soils,6.5,5
+18.31,24.55,32.12,61.84,366.9,summer paddy,Flowering / Reproductive,88,Red and Yellow soils,6.0,7
+12.08,28.09,13.61,78.46,348.31,Niger,Vegetative,23,Laterite soils,6.0,0
+41.54,18.92,24.49,67.31,820.66,Moong,Flowering / Reproductive,69,Red and Yellow soils,7.0,4
+30.85,26.69,35.44,60.38,737.04,Masoor,Sowing / Germination,3,Red and Yellow soils,6.5,2
+38.21,25.38,32.23,27.54,743.23,Kulthi,Sowing / Germination,8,Laterite soils,7.0,11
+42.59,23.52,11.5,85.57,787.15,Urd,Vegetative,45,Black soils,5.0,7
+43.85,28.02,19.57,89.16,1365.81,Kulthi,Maturity / Harvesting,111,Red and Yellow soils,5.0,10
+39.82,26.66,28.49,84.65,456.35,Tiwra,Vegetative,23,Red and Yellow soils,6.0,5
+9.84,21.09,19.41,68.46,543.35,Wheat,Vegetative,59,Alluvial soils,6.5,13
+44.74,24.56,20.91,52.96,1609.14,Wheat,Flowering / Reproductive,92,Red and Yellow soils,7.0,1
+34.71,18.0,25.79,35.86,367.68,Wheat,Maturity / Harvesting,128,Red and Yellow soils,6.0,14
+34.51,27.38,34.1,89.16,207.07,Masoor,Flowering / Reproductive,83,Laterite soils,5.5,12
+26.45,27.35,11.66,48.46,1547.43,Til,Maturity / Harvesting,103,Black soils,6.5,6
+26.45,24.12,37.0,71.68,1733.66,Wheat,Sowing / Germination,7,Red and Yellow soils,4.5,6
+40.73,28.12,27.85,20.51,215.05,summer paddy,Sowing / Germination,3,Red and Yellow soils,5.5,12
+42.96,22.65,32.32,24.98,851.08,Pea,Flowering / Reproductive,65,Red and Yellow soils,6.0,4
+21.47,23.6,26.06,56.27,413.7,Urd,Flowering / Reproductive,70,Alluvial soils,6.0,7
+14.56,27.75,29.82,56.06,1538.17,Kulthi,Vegetative,26,Laterite soils,6.0,13
+28.42,24.43,36.75,22.26,572.3,Wheat,Vegetative,56,Laterite soils,4.5,4
+27.03,26.31,30.42,20.54,593.12,Pea,Flowering / Reproductive,72,Black soils,6.5,0
+39.73,24.81,24.03,42.99,950.09,Masoor,Sowing / Germination,12,Black soils,7.0,8
+39.62,25.27,22.76,20.4,1315.17,Millets,Vegetative,35,Red and Yellow soils,7.0,3
+41.99,25.4,18.85,56.89,1268.58,Mustard,Vegetative,24,Laterite soils,6.0,12
+40.78,24.38,31.51,81.0,1088.03,Rice,Vegetative,34,Laterite soils,5.5,1
+39.91,27.41,23.23,56.22,1375.03,Kulthi,Flowering / Reproductive,87,Alluvial soils,7.0,3
+12.65,24.62,16.75,34.44,364.22,Pea,Vegetative,38,Black soils,8.0,13
+19.52,26.55,13.37,57.03,802.05,Gram,Flowering / Reproductive,64,Black soils,6.0,12
+40.39,24.31,10.18,57.73,1030.78,Arhar,Vegetative,51,Laterite soils,6.0,8
+40.85,21.9,33.08,21.02,1463.67,Groundnut,Vegetative,26,Alluvial soils,5.5,1
+17.85,29.24,14.79,81.41,209.85,Millets,Flowering / Reproductive,94,Black soils,6.0,3
+35.49,28.0,15.87,26.92,574.5,Wheat,Vegetative,54,Alluvial soils,5.5,1
+43.95,33.37,30.23,33.37,1508.24,Moong,Sowing / Germination,6,Red and Yellow soils,6.5,4
+13.12,23.37,36.09,61.36,202.47,Gram,Sowing / Germination,2,Red and Yellow soils,6.0,2
+18.39,25.87,28.72,35.16,1097.1,Mustard,Vegetative,55,Black soils,6.5,9
+39.1,26.11,31.0,27.28,1291.64,Urd,Vegetative,59,Red and Yellow soils,6.5,1
+11.91,29.47,38.86,27.01,377.33,Kulthi,Flowering / Reproductive,68,Alluvial soils,7.5,13
+21.5,24.98,36.0,62.31,1283.87,Groundnut,Flowering / Reproductive,81,Laterite soils,5.0,8
+29.32,22.99,11.17,64.65,483.64,Niger,Flowering / Reproductive,64,Black soils,5.5,4
+45.49,30.12,38.63,48.52,1148.41,Rice,Vegetative,26,Black soils,6.0,9
+30.44,25.55,32.81,24.38,262.53,Pea,Vegetative,15,Alluvial soils,6.0,4
+12.99,29.14,36.96,29.98,1291.43,Gram,Vegetative,58,Alluvial soils,6.0,0
+13.64,28.79,24.08,36.51,1730.32,summer paddy,Sowing / Germination,6,Red and Yellow soils,5.0,5
+31.19,26.41,19.22,32.06,1227.5,Til,Sowing / Germination,6,Red and Yellow soils,6.0,12
+42.42,25.98,31.3,83.71,1928.36,Maize,Vegetative,33,Laterite soils,6.0,6
+17.98,25.33,14.57,74.84,1218.89,Kulthi,Maturity / Harvesting,110,Alluvial soils,7.0,0
+26.99,26.45,22.59,63.41,676.32,Millets,Sowing / Germination,3,Black soils,6.5,8
+36.6,29.09,12.94,82.92,1707.61,Masoor,Sowing / Germination,3,Laterite soils,7.5,7
+39.33,24.11,32.0,53.11,1205.19,Soybean,Flowering / Reproductive,82,Black soils,5.5,11
+12.87,26.83,31.49,57.67,415.33,Jwar,Vegetative,56,Laterite soils,7.0,13
+7.19,23.14,18.33,25.17,464.41,Mustard,Flowering / Reproductive,77,Black soils,7.0,13
+40.97,23.52,27.26,62.21,698.37,Groundnut,Flowering / Reproductive,85,Red and Yellow soils,5.0,7
+32.84,26.41,25.62,43.95,1482.2,Niger,Maturity / Harvesting,107,Black soils,5.5,6
+43.22,20.62,18.9,30.37,495.59,Pea,Vegetative,32,Red and Yellow soils,5.0,4
+40.24,32.68,27.0,35.82,1186.89,Tiwra,Flowering / Reproductive,62,Laterite soils,7.0,2
+42.22,22.92,27.73,33.88,1516.5,Rice,Vegetative,37,Alluvial soils,5.5,14
+25.9,26.38,37.52,46.87,971.01,Millets,Flowering / Reproductive,62,Red and Yellow soils,4.5,11
+39.63,30.0,10.6,70.31,1624.76,Kulthi,Vegetative,39,Red and Yellow soils,5.5,13
+10.87,23.91,28.26,87.81,658.47,Pea,Sowing / Germination,11,Red and Yellow soils,6.0,8
+16.91,19.59,30.39,71.37,1026.36,Kulthi,Vegetative,58,Alluvial soils,4.5,13
+30.82,25.17,27.67,79.99,1129.89,Til,Vegetative,41,Black soils,6.0,6
+16.52,23.88,17.16,41.99,1313.83,Gram,Flowering / Reproductive,84,Laterite soils,5.5,10
+31.43,19.67,29.42,54.88,1156.15,Millets,Flowering / Reproductive,83,Black soils,5.5,9
+28.3,27.35,20.45,34.21,450.29,Jwar,Flowering / Reproductive,67,Alluvial soils,6.5,9
+30.54,27.12,16.28,47.19,1775.38,Tiwra,Sowing / Germination,9,Alluvial soils,6.0,7
+40.6,29.93,19.25,32.92,1899.16,Tiwra,Flowering / Reproductive,89,Alluvial soils,7.0,13
+41.24,23.14,14.06,72.09,1071.05,Millets,Vegetative,33,Red and Yellow soils,5.0,5
+14.41,21.7,22.06,25.96,443.56,Mustard,Maturity / Harvesting,110,Alluvial soils,5.0,11
+33.37,25.28,21.59,25.46,1304.1,Soybean,Maturity / Harvesting,118,Red and Yellow soils,7.0,13
+32.95,26.23,35.38,81.78,879.97,Jwar,Sowing / Germination,12,Alluvial soils,6.5,10
+18.4,29.26,10.5,47.02,1087.04,Tiwra,Flowering / Reproductive,80,Black soils,5.0,13
+26.81,30.73,20.67,72.66,1454.03,Til,Sowing / Germination,4,Laterite soils,7.0,4
+38.3,30.14,24.13,80.01,383.09,Rice,Vegetative,54,Red and Yellow soils,8.5,14
+30.85,27.33,37.66,28.53,900.89,Tiwra,Vegetative,53,Laterite soils,6.0,7
+42.13,28.9,35.31,29.61,1095.15,Urd,Sowing / Germination,14,Laterite soils,6.0,2
+9.74,24.58,38.7,42.34,1683.52,Millets,Flowering / Reproductive,65,Red and Yellow soils,6.0,11
+21.83,27.01,15.9,62.38,896.92,Rice,Sowing / Germination,5,Alluvial soils,5.5,12
+28.3,22.93,27.82,27.77,1646.52,summer paddy,Sowing / Germination,14,Alluvial soils,8.0,12
+25.24,26.69,15.21,37.68,1074.92,Arhar,Vegetative,59,Black soils,6.5,6
