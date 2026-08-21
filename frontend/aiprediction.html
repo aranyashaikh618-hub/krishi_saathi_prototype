@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Krishi Saathi — Crop Stage Prediction</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo">
+    <div class="logo-mark">🌱</div>
+    <div class="logo-text">
+      <h1>Krishi Saathi</h1>
+      <span>Grow Smart, Live Better</span>
+    </div>
+  </div>
+  <nav class="main-nav">
+    <a href="index.html">Home</a>
+    <a href="index.html#about">About Us</a>
+    <a href="index.html#how-it-works">How It Works</a>
+    <a href="index.html#features">Features</a>
+    <a href="aiprediction.html" class="active">Prediction</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <a href="aiprediction.html" class="btn btn-primary">Get Started →</a>
+</header>
+
+<section class="predict-hero">
+  <h2>Crop Growth Stage Prediction</h2>
+  <p>Enter your field's current sensor readings and crop details to find out which growth stage your crop is likely in right now.</p>
+</section>
+
+<section class="form-grid">
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">🌾</div>
+      <div><h4>Crop Type</h4><p class="hint">Select the crop growing in this field.</p></div>
+    </div>
+    <div class="input-row">
+      <select id="crop_type">
+        <option value="" disabled selected>Select crop</option>
+        <option>Arhar</option>
+        <option>Gram</option>
+        <option>Groundnut</option>
+        <option>Jwar</option>
+        <option>Kulthi</option>
+        <option>Maize</option>
+        <option>Masoor</option>
+        <option>Millets</option>
+        <option>Moong</option>
+        <option>Mustard</option>
+        <option>Niger</option>
+        <option>Pea</option>
+        <option>Rice</option>
+        <option>Soybean</option>
+        <option>Til</option>
+        <option>Tiwra</option>
+        <option>Urd</option>
+        <option>Wheat</option>
+        <option>summer paddy</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">🟤</div>
+      <div><h4>Soil Type</h4><p class="hint">Select the dominant soil type.</p></div>
+    </div>
+    <div class="input-row">
+      <select id="soil_type">
+        <option value="" disabled selected>Select soil type</option>
+        <option>Alluvial soils</option>
+        <option>Black soils</option>
+        <option>Laterite soils</option>
+        <option>Red and Yellow soils</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">📅</div>
+      <div><h4>Crop Age</h4><p class="hint">Days since sowing.</p></div>
+    </div>
+    <div class="input-row">
+      <input type="number" id="crop_age_days" placeholder="Enter value" min="0" max="365">
+      <span class="unit">days</span>
+    </div>
+    <p class="range-hint">Range: 0 – 365 days</p>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">💧</div>
+      <div><h4>Soil Moisture</h4><p class="hint">Enter the moisture level of the soil.</p></div>
+    </div>
+    <div class="input-row">
+      <input type="number" id="soil_moisture" placeholder="Enter value" min="0" max="100">
+      <span class="unit">%</span>
+    </div>
+    <p class="range-hint">Range: 0 – 100%</p>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">🌡️</div>
+      <div><h4>Soil Temperature</h4><p class="hint">Enter the temperature of the soil.</p></div>
+    </div>
+    <div class="input-row">
+      <input type="number" id="soil_temperature" placeholder="Enter value" min="0" max="50">
+      <span class="unit">°C</span>
+    </div>
+    <p class="range-hint">Range: 0 – 50°C</p>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">🧪</div>
+      <div><h4>Soil pH</h4><p class="hint">Enter the pH value of the soil.</p></div>
+    </div>
+    <div class="input-row">
+      <input type="number" id="soil_ph" placeholder="Enter value" min="0" max="14" step="0.1">
+      <span class="unit">pH</span>
+    </div>
+    <p class="range-hint">Range: 0 – 14</p>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">🌤️</div>
+      <div><h4>Air Temperature</h4><p class="hint">Enter the current air temperature.</p></div>
+    </div>
+    <div class="input-row">
+      <input type="number" id="air_temperature" placeholder="Enter value" min="-10" max="50">
+      <span class="unit">°C</span>
+    </div>
+    <p class="range-hint">Range: -10 – 50°C</p>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">💧</div>
+      <div><h4>Humidity</h4><p class="hint">Enter the current atmospheric humidity.</p></div>
+    </div>
+    <div class="input-row">
+      <input type="number" id="humidity" placeholder="Enter value" min="0" max="100">
+      <span class="unit">%</span>
+    </div>
+    <p class="range-hint">Range: 0 – 100%</p>
+  </div>
+
+  <div class="form-card">
+    <div class="form-card-head">
+      <div class="card-icon">🌧️</div>
+      <div><h4>Rainfall</h4><p class="hint">Enter recent rainfall.</p></div>
+    </div>
+    <div class="input-row">
+      <input type="number" id="rainfall" placeholder="Enter value" min="0" max="60">
+      <span class="unit">mm</span>
+    </div>
+    <p class="range-hint">Range: 0 – 60mm</p>
+  </div>
+
+</section>
+
+<div class="predict-btn-wrap">
+  <button type="button" id="predict-btn" class="btn btn-primary" style="width:100%; justify-content:center;">🌿 Predict Growth Stage</button>
+  <p id="predict-status"></p>
+</div>
+
+<section class="result-section">
+  <h3>📊 Prediction Result</h3>
+  <div class="result-grid">
+    <div class="result-card crop">
+      <p class="result-label">Growth Stage</p>
+      <p class="result-value" id="result-stage">—</p>
+      <p class="result-note">Predicted current stage of your crop.</p>
+    </div>
+    <div class="result-card confidence">
+      <p class="result-label">Confidence Score</p>
+      <p class="result-value" id="result-confidence">—</p>
+      <p class="result-note">Crop Health.</p>
+    </div>
+    <div class="result-card status">
+      <p class="result-label">Status</p>
+      <p class="result-value" id="result-status">—</p>
+      <p class="result-note" id="result-status-note">Fill the form and predict.</p>
+    </div>
+    <div class="result-card suggestions">
+      <p class="result-label">Suggestions</p>
+      <ul id="result-suggestions">
+        <li>Fill in the form above and click Predict Growth Stage.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<script>
+const API_BASE = "http://127.0.0.1:8000"; // change this if your backend runs elsewhere
+
+document.getElementById("predict-btn").addEventListener("click", async () => {
+  const statusEl = document.getElementById("predict-status");
+
+  const cropType = document.getElementById("crop_type").value;
+  const soilType = document.getElementById("soil_type").value;
+
+  const numericFields = {
+    soil_moisture: parseFloat(document.getElementById("soil_moisture").value),
+    soil_temperature: parseFloat(document.getElementById("soil_temperature").value),
+    air_temperature: parseFloat(document.getElementById("air_temperature").value),
+    humidity: parseFloat(document.getElementById("humidity").value),
+    rainfall: parseFloat(document.getElementById("rainfall").value),
+    crop_age_days: parseFloat(document.getElementById("crop_age_days").value),
+    soil_ph: parseFloat(document.getElementById("soil_ph").value),
+  };
+
+  if (!cropType || !soilType || Object.values(numericFields).some((v) => Number.isNaN(v))) {
+    statusEl.textContent = "Please fill in all fields before predicting.";
+    return;
+  }
+
+  const payload = {
+    ...numericFields,
+    crop_type: cropType,
+    soil_type: soilType,
+  };
+
+  statusEl.textContent = "Predicting...";
+
+  try {
+    const response = await fetch(`${API_BASE}/api/predict-stage`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+
+    if (!response.ok) throw new Error(`Server responded ${response.status}`);
+
+    const result = await response.json();
+
+    document.getElementById("result-stage").textContent = result.predicted_stage ?? "—";
+    document.getElementById("result-confidence").textContent =
+      result.confidence_score !== undefined ? `${result.confidence_score}%` : "—";
+    document.getElementById("result-status").textContent = result.status ?? "—";
+    document.getElementById("result-status-note").textContent =
+      result.status_note ?? "Your crop stage result.";
+
+    const list = document.getElementById("result-suggestions");
+    list.innerHTML = "";
+    (result.suggestions ?? []).forEach((tip) => {
+      const li = document.createElement("li");
+      li.textContent = `✔ ${tip}`;
+      list.appendChild(li);
+    });
+
+    statusEl.textContent = "";
+  } catch (err) {
+    statusEl.textContent = "Could not reach the backend. Is it running?";
+    console.error(err);
+  }
+});
+</script>
+
+</body>
+</html>
